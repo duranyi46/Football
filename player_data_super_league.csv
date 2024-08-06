@@ -1,0 +1,831 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls_per_90,Ast_per_90,G+A_per_90,G-PK_per_90,G+A-PK_per_90,Matches,Team
+Fernando Muslera,URU,GK,37.0,45,45,4019.0,44.7,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Galatasaray
+Lucas Torreira,URU,MF,27.0,43,43,3639.0,40.4,1.0,2.0,3.0,1.0,0.0,0.0,8.0,0.0,0.02,0.05,0.07,0.02,0.07,Matches,Galatasaray
+Mauro Icardi,ARG,FW,30.0,42,39,3553.0,39.5,28.0,10.0,38.0,21.0,7.0,9.0,2.0,0.0,0.71,0.25,0.96,0.53,0.79,Matches,Galatasaray
+Kerem Aktürkoğlu,TUR,"MF,FW",24.0,45,36,3052.0,33.9,14.0,6.0,20.0,11.0,3.0,4.0,5.0,1.0,0.41,0.18,0.59,0.32,0.5,Matches,Galatasaray
+Abdülkerim Bardakcı,TUR,DF,28.0,35,32,2879.0,32.0,5.0,0.0,5.0,5.0,0.0,0.0,5.0,0.0,0.16,0.0,0.16,0.16,0.16,Matches,Galatasaray
+Barış Alper Yılmaz,TUR,"FW,MF",23.0,45,30,2850.0,31.7,6.0,8.0,14.0,6.0,0.0,0.0,9.0,0.0,0.19,0.25,0.44,0.19,0.44,Matches,Galatasaray
+Dries Mertens,BEL,MF,36.0,43,35,2813.0,31.3,10.0,16.0,26.0,9.0,1.0,1.0,3.0,0.0,0.32,0.51,0.83,0.29,0.8,Matches,Galatasaray
+Victor Nelsson,DEN,DF,24.0,37,31,2724.0,30.3,2.0,0.0,2.0,2.0,0.0,0.0,3.0,1.0,0.07,0.0,0.07,0.07,0.07,Matches,Galatasaray
+Kaan Ayhan,TUR,"MF,DF",28.0,42,28,2595.0,28.8,1.0,2.0,3.0,1.0,0.0,0.0,5.0,1.0,0.03,0.07,0.1,0.03,0.1,Matches,Galatasaray
+Kerem Demirbay,GER,MF,30.0,38,30,2424.0,26.9,7.0,3.0,10.0,6.0,1.0,1.0,3.0,0.0,0.26,0.11,0.37,0.22,0.33,Matches,Galatasaray
+Sacha Boey,FRA,DF,22.0,25,25,2250.0,25.0,2.0,0.0,2.0,2.0,0.0,0.0,6.0,0.0,0.08,0.0,0.08,0.08,0.08,Matches,Galatasaray
+Davinson Sánchez,COL,DF,27.0,29,23,2131.0,23.7,2.0,2.0,4.0,2.0,0.0,0.0,4.0,0.0,0.08,0.08,0.17,0.08,0.17,Matches,Galatasaray
+Wilfried Zaha,CIV,FW,30.0,38,18,1872.0,20.8,10.0,4.0,14.0,10.0,0.0,0.0,3.0,0.0,0.48,0.19,0.67,0.48,0.67,Matches,Galatasaray
+Tetê,BRA,FW,23.0,40,15,1348.0,15.0,1.0,3.0,4.0,1.0,0.0,0.0,2.0,0.0,0.07,0.2,0.27,0.07,0.27,Matches,Galatasaray
+Hakim Ziyech,MAR,FW,30.0,23,15,1319.0,14.7,8.0,4.0,12.0,8.0,0.0,0.0,5.0,0.0,0.55,0.27,0.82,0.55,0.82,Matches,Galatasaray
+Derrick Köhn,GER,DF,24.0,13,13,1152.0,12.8,1.0,2.0,3.0,1.0,0.0,0.0,1.0,0.0,0.08,0.16,0.23,0.08,0.23,Matches,Galatasaray
+Angeliño,ESP,DF,26.0,14,12,1027.0,11.4,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.09,0.09,0.0,0.09,Matches,Galatasaray
+Berkan Kutlu,TUR,DF,25.0,22,10,1013.0,11.3,2.0,1.0,3.0,2.0,0.0,0.0,3.0,0.0,0.18,0.09,0.27,0.18,0.27,Matches,Galatasaray
+Sérgio Oliveira,POR,MF,31.0,18,5,633.0,7.0,1.0,1.0,2.0,1.0,0.0,0.0,5.0,0.0,0.14,0.14,0.28,0.14,0.28,Matches,Galatasaray
+Tanguy Ndombele,FRA,MF,26.0,24,5,559.0,6.2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.16,0.0,0.16,Matches,Galatasaray
+Kazımcan Karataş,TUR,DF,20.0,9,7,477.0,5.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Galatasaray
+Halil Dervişoğlu,TUR,FW,23.0,14,3,345.0,3.8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.26,0.26,0.0,0.26,Matches,Galatasaray
+Cédric Bakambu,COD,FW,32.0,12,1,231.0,2.6,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.78,0.0,0.78,0.78,0.78,Matches,Galatasaray
+Carlos Vinícius,BRA,MF,28.0,12,1,145.0,1.6,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.62,0.0,0.62,0.62,0.62,Matches,Galatasaray
+Günay Güvenç,Unknown,GK,32.0,2,1,121.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Galatasaray
+Ali Turap Bülbül,TUR,DF,18.0,3,1,96.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Galatasaray
+Serge Aurier,CIV,DF,30.0,4,1,73.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Galatasaray
+Leo Dubois,FRA,DF,28.0,1,1,55.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Galatasaray
+Eyüp Aydın,Unknown,MF,18.0,10,0,49.0,0.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.84,1.84,0.0,1.84,Matches,Galatasaray
+Yunus Akgün,TUR,MF,23.0,1,0,27.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Galatasaray
+Baran Demiroğlu,Unknown,FW,18.0,2,0,17.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Galatasaray
+Efe Akman,TUR,MF,17.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Galatasaray
+Fredrik Midtsjø,NOR,MF,29.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Galatasaray
+Emin Bayram,TUR,DF,20.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Galatasaray
+Özgur Baran Aksaka,Unknown,MF,20.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Galatasaray
+Gökdeniz Gürpüz,TUR,MF,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Galatasaray
+Hamza Akman,TUR,MF,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Galatasaray
+Ali Yeşilyurt,TUR,DF,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Galatasaray
+Jankat Yilmaz,TUR,GK,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Galatasaray
+Atakan Nuri Ordu,Unknown,GK,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Galatasaray
+Ferdi Kadioglu,TUR,DF,23.0,44,41,3846.0,42.7,2.0,4.0,6.0,2.0,0.0,0.0,3.0,0.0,0.05,0.09,0.14,0.05,0.14,Matches,Fenerbahce
+Dušan Tadić,SRB,MF,34.0,48,44,3780.0,42.0,12.0,15.0,27.0,4.0,8.0,12.0,3.0,0.0,0.29,0.36,0.64,0.1,0.45,Matches,Fenerbahce
+Dominik Livaković,CRO,GK,28.0,40,40,3628.0,40.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fenerbahce
+Sebastian Szymański,POL,MF,24.0,47,40,3525.0,39.2,10.0,15.0,25.0,10.0,0.0,0.0,5.0,0.0,0.26,0.38,0.64,0.26,0.64,Matches,Fenerbahce
+Edin Džeko,BIH,FW,37.0,42,37,3010.0,33.4,23.0,4.0,27.0,21.0,2.0,3.0,3.0,0.0,0.69,0.12,0.81,0.63,0.75,Matches,Fenerbahce
+İsmail Yüksek,TUR,MF,24.0,38,33,2924.0,32.5,0.0,4.0,4.0,0.0,0.0,0.0,10.0,2.0,0.0,0.12,0.12,0.0,0.12,Matches,Fenerbahce
+Jayden Oosterwolde,NED,DF,22.0,36,29,2679.0,29.8,1.0,0.0,1.0,1.0,0.0,0.0,10.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,Fenerbahce
+Bright Osayi-Samuel,NGA,DF,25.0,33,31,2609.0,29.0,4.0,1.0,5.0,4.0,0.0,0.0,11.0,0.0,0.14,0.03,0.17,0.14,0.17,Matches,Fenerbahce
+Alexander Djiku,GHA,DF,28.0,32,29,2607.0,29.0,3.0,1.0,4.0,3.0,0.0,0.0,9.0,1.0,0.1,0.03,0.14,0.1,0.14,Matches,Fenerbahce
+Fred,BRA,MF,30.0,33,30,2544.0,28.3,3.0,7.0,10.0,3.0,0.0,0.0,7.0,1.0,0.11,0.25,0.35,0.11,0.35,Matches,Fenerbahce
+İrfan Kahveci,TUR,MF,28.0,39,26,2418.0,26.9,14.0,8.0,22.0,14.0,0.0,0.0,7.0,0.0,0.52,0.3,0.82,0.52,0.82,Matches,Fenerbahce
+Rodrigo Becão,BRA,DF,27.0,20,19,1452.0,16.1,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fenerbahce
+Michy Batshuayi,BEL,FW,29.0,35,11,1369.0,15.2,16.0,2.0,18.0,12.0,4.0,5.0,5.0,0.0,1.05,0.13,1.18,0.79,0.92,Matches,Fenerbahce
+Cengiz Ünder,TUR,MF,26.0,30,16,1224.0,13.6,9.0,2.0,11.0,9.0,0.0,0.0,3.0,0.0,0.66,0.15,0.81,0.66,0.81,Matches,Fenerbahce
+Mert Müldür,TUR,DF,24.0,26,11,1122.0,12.5,1.0,4.0,5.0,1.0,0.0,0.0,4.0,0.0,0.08,0.32,0.4,0.08,0.4,Matches,Fenerbahce
+Serdar Aziz,TUR,DF,32.0,15,13,1076.0,12.0,1.0,2.0,3.0,1.0,0.0,0.0,2.0,0.0,0.08,0.17,0.25,0.08,0.25,Matches,Fenerbahce
+Çağlar Söyüncü,TUR,DF,27.0,15,11,1058.0,11.8,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,0.17,0.09,0.26,0.17,0.26,Matches,Fenerbahce
+Crespo,POR,MF,26.0,15,11,1001.0,11.1,1.0,0.0,1.0,1.0,0.0,0.0,5.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,Fenerbahce
+Rade Krunić,BIH,MF,29.0,15,10,873.0,9.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fenerbahce
+Miha Zajc,SVN,MF,29.0,17,8,852.0,9.5,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.21,0.0,0.21,0.21,0.21,Matches,Fenerbahce
+Mert Yandaş,TUR,MF,28.0,20,9,754.0,8.4,2.0,2.0,4.0,2.0,0.0,0.0,4.0,1.0,0.24,0.24,0.48,0.24,0.48,Matches,Fenerbahce
+İrfan Can Eğribayat,TUR,GK,25.0,7,7,630.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fenerbahce
+Ryan Kent,ENG,MF,26.0,15,7,623.0,6.9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.14,0.0,0.14,Matches,Fenerbahce
+Joshua King,NOR,MF,31.0,20,4,597.0,6.6,4.0,1.0,5.0,4.0,0.0,0.0,3.0,0.0,0.6,0.15,0.75,0.6,0.75,Matches,Fenerbahce
+Samet Akaydın,TUR,DF,29.0,10,6,570.0,6.3,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fenerbahce
+Serdar Dursun,TUR,FW,31.0,9,1,227.0,2.5,3.0,2.0,5.0,3.0,0.0,0.0,0.0,0.0,1.19,0.79,1.98,1.19,1.98,Matches,Fenerbahce
+Leonardo Bonucci,ITA,DF,36.0,10,1,212.0,2.4,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.42,0.42,0.0,0.42,Matches,Fenerbahce
+Yusuf Akçiçek,TUR,DF,17.0,4,2,195.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fenerbahce
+Umut Nayir,TUR,FW,30.0,11,0,169.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fenerbahce
+Altay Bayındır,TUR,GK,25.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fenerbahce
+Emre Mor,TUR,MF,26.0,6,0,58.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fenerbahce
+Bartuğ Elmaz,TUR,MF,20.0,5,0,33.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fenerbahce
+Furkan Akyüz,Unknown,GK,17.0,1,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fenerbahce
+Muhammet Zeki Dursun,Unknown,MF,17.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fenerbahce
+Ahmet Aydin,Unknown,DF,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fenerbahce
+Efekan Karayazı,Unknown,MF,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fenerbahce
+Doğukan Demi,Unknown,GK,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fenerbahce
+Muhammet Imre,Unknown,MF,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fenerbahce
+Çagri Fedai,Unknown,FW,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fenerbahce
+Lincoln,BRA,MF,24.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fenerbahce
+Emir Ortakaya,TUR,DF,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fenerbahce
+Kaan Akyazi,Unknown,FW,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fenerbahce
+Uğurcan Çakır,TUR,GK,27.0,35,35,3150.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Trabzonspor
+Evren Eren Elmalı,TUR,DF,23.0,35,35,3109.0,34.5,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Trabzonspor
+Edin Višća,BIH,MF,33.0,37,35,2834.0,31.5,5.0,10.0,15.0,4.0,1.0,1.0,1.0,0.0,0.16,0.32,0.48,0.13,0.44,Matches,Trabzonspor
+Batista Mendy,FRA,"MF,DF",23.0,31,31,2771.0,30.8,1.0,0.0,1.0,1.0,0.0,0.0,10.0,1.0,0.03,0.0,0.03,0.03,0.03,Matches,Trabzonspor
+Berat Özdemir,TUR,MF,25.0,32,28,2389.0,26.5,1.0,1.0,2.0,1.0,0.0,0.0,4.0,0.0,0.04,0.04,0.08,0.04,0.08,Matches,Trabzonspor
+Enis Bardhi,MKD,MF,28.0,35,26,2359.0,26.2,7.0,4.0,11.0,7.0,0.0,0.0,3.0,0.0,0.27,0.15,0.42,0.27,0.42,Matches,Trabzonspor
+Stefano Denswil,SUR,DF,30.0,26,25,2263.0,25.1,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.04,0.0,0.04,0.04,0.04,Matches,Trabzonspor
+Rayyan Baniya,Unknown,DF,24.0,22,21,1794.0,19.9,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Trabzonspor
+Paul Onuachu,NGA,FW,29.0,21,19,1520.0,16.9,15.0,4.0,19.0,15.0,0.0,0.0,3.0,0.0,0.89,0.24,1.13,0.89,1.13,Matches,Trabzonspor
+Trézéguet,EGY,MF,28.0,25,18,1604.0,17.8,10.0,5.0,15.0,9.0,1.0,1.0,2.0,0.0,0.56,0.28,0.84,0.5,0.79,Matches,Trabzonspor
+Anastasios Bakasetas,GRE,MF,30.0,18,14,1413.0,15.7,4.0,2.0,6.0,3.0,1.0,1.0,3.0,0.0,0.25,0.13,0.38,0.19,0.32,Matches,Trabzonspor
+Thomas Meunier,BEL,DF,31.0,14,14,1242.0,13.8,1.0,5.0,6.0,1.0,0.0,0.0,2.0,0.0,0.07,0.36,0.43,0.07,0.43,Matches,Trabzonspor
+Abdülkadir Ömür,TUR,MF,24.0,16,14,1110.0,12.3,0.0,5.0,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.41,0.41,0.0,0.41,Matches,Trabzonspor
+Enis Destan,TUR,FW,21.0,33,13,1377.0,15.3,9.0,4.0,13.0,8.0,1.0,1.0,4.0,0.0,0.59,0.26,0.85,0.52,0.78,Matches,Trabzonspor
+Nicolas Pépé,CIV,"MF,FW",28.0,19,13,1121.0,12.5,5.0,2.0,7.0,5.0,0.0,0.0,0.0,0.0,0.4,0.16,0.56,0.4,0.56,Matches,Trabzonspor
+Filip Benković,CRO,DF,26.0,14,13,1112.0,12.4,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.16,0.0,0.16,0.16,0.16,Matches,Trabzonspor
+Mehmet Aydin,GER,DF,21.0,20,12,1289.0,14.3,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Trabzonspor
+Taxiarchis Fountas,GRE,"MF,FW",27.0,29,12,1136.0,12.6,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,0.16,0.08,0.24,0.16,0.24,Matches,Trabzonspor
+Jens Stryger Larsen,DEN,DF,32.0,16,12,1023.0,11.4,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Trabzonspor
+Umut Güneş,TUR,MF,23.0,19,9,918.0,10.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Trabzonspor
+Joaquín Fernández,ESP,DF,27.0,13,5,392.0,4.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Trabzonspor
+Umut Bozok,TUR,FW,26.0,13,3,430.0,4.8,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.21,0.0,0.21,0.21,0.21,Matches,Trabzonspor
+Dimitrios Kourbelis,GRE,MF,29.0,6,3,285.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Trabzonspor
+Muhammet Taha Tepe,TUR,GK,22.0,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Trabzonspor
+Hüseyin Türkmen,TUR,DF,25.0,4,2,140.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Trabzonspor
+Tonio Teklić,CRO,MF,23.0,5,1,145.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Trabzonspor
+Arif Boşluk,TUR,DF,20.0,3,1,99.0,1.1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.91,0.91,0.0,0.91,Matches,Trabzonspor
+Dogucan Haspolat,TUR,MF,23.0,3,1,96.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Trabzonspor
+Kerem Şen,Unknown,FW,21.0,7,0,105.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Trabzonspor
+Mislav Oršić,CRO,"FW,MF",30.0,6,0,54.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Trabzonspor
+Göktan Gürpüz,GER,MF,20.0,5,0,25.0,0.3,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,3.6,0.0,3.6,3.6,3.6,Matches,Trabzonspor
+Maxi Gómez,URU,FW,26.0,1,0,16.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Trabzonspor
+Engin Yıldırım,TUR,FW,18.0,2,0,10.0,0.1,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,9.0,0.0,9.0,9.0,9.0,Matches,Trabzonspor
+Ognjen Bakić,MNE,MF,20.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Trabzonspor
+Abdurrahman Bayram,TUR,FW,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Trabzonspor
+Onuralp Çevikkan,TUR,GK,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Trabzonspor
+Salih Malkoçoglu,Unknown,MF,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Trabzonspor
+Ali Yılmaz,TUR,MF,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Trabzonspor
+Oğuzhan Yilmaz,TUR,MF,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Trabzonspor
+Squad Total,Unknown,Unknown,26.9,38,418,3420.0,38.0,66.0,44.0,110.0,62.0,4.0,4.0,65.0,1.0,1.74,1.16,2.89,1.63,2.79,Unknown,Trabzonspor
+Opponent Total,Unknown,Unknown,28.0,38,418,3420.0,38.0,50.0,32.0,82.0,44.0,6.0,6.0,92.0,2.0,1.32,0.84,2.16,1.16,2.0,Unknown,Trabzonspor
+Berkay Özcan,TUR,MF,25.0,34,33,2810.0,31.2,2.0,2.0,4.0,1.0,1.0,1.0,2.0,0.0,0.06,0.06,0.13,0.03,0.1,Matches,Istanbul-Basaksehir
+Krzysztof Piątek,POL,FW,28.0,34,32,2694.0,29.9,17.0,1.0,18.0,13.0,4.0,5.0,3.0,0.0,0.57,0.03,0.6,0.43,0.47,Matches,Istanbul-Basaksehir
+Deniz Turuc,TUR,MF,30.0,34,31,2670.0,29.7,2.0,12.0,14.0,2.0,0.0,0.0,11.0,0.0,0.07,0.4,0.47,0.07,0.47,Matches,Istanbul-Basaksehir
+Léo Duarte,BRA,DF,27.0,30,30,2700.0,30.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.03,0.03,0.0,0.03,Matches,Istanbul-Basaksehir
+Jerome Opoku,GHA,DF,24.0,28,28,2479.0,27.5,4.0,1.0,5.0,4.0,0.0,0.0,8.0,1.0,0.15,0.04,0.18,0.15,0.18,Matches,Istanbul-Basaksehir
+Leo Dubois,FRA,DF,28.0,30,26,2242.0,24.9,1.0,4.0,5.0,1.0,0.0,0.0,3.0,0.0,0.04,0.16,0.2,0.04,0.2,Matches,Istanbul-Basaksehir
+Volkan Babacan,TUR,GK,34.0,23,23,2070.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+João Figueiredo,BRA,"MF,FW",27.0,34,22,2025.0,22.5,8.0,2.0,10.0,8.0,0.0,0.0,8.0,2.0,0.36,0.09,0.44,0.36,0.44,Matches,Istanbul-Basaksehir
+Ousseynou Ba,SEN,DF,27.0,22,21,1764.0,19.6,0.0,1.0,1.0,0.0,0.0,0.0,9.0,1.0,0.0,0.05,0.05,0.0,0.05,Matches,Istanbul-Basaksehir
+Lucas Lima,BRA,DF,31.0,32,20,1894.0,21.0,1.0,2.0,3.0,1.0,0.0,0.0,4.0,0.0,0.05,0.1,0.14,0.05,0.14,Matches,Istanbul-Basaksehir
+Dimitris Pelkas,GRE,"MF,FW",29.0,23,16,1238.0,13.8,6.0,4.0,10.0,6.0,0.0,0.0,6.0,0.0,0.44,0.29,0.73,0.44,0.73,Matches,Istanbul-Basaksehir
+Ömer Ali Şahiner,TUR,"DF,MF",31.0,22,15,1194.0,13.3,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+Muhammed Şengezer,TUR,GK,26.0,14,14,1260.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+Danijel Aleksić,SRB,MF,32.0,21,13,1158.0,12.9,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.08,0.08,0.16,0.08,0.16,Matches,Istanbul-Basaksehir
+Serdar Gürler,TUR,MF,31.0,21,11,1018.0,11.3,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,Istanbul-Basaksehir
+Davidson da Luz Pereira,BRA,MF,32.0,14,11,976.0,10.8,4.0,0.0,4.0,4.0,0.0,0.0,2.0,0.0,0.37,0.0,0.37,0.37,0.37,Matches,Istanbul-Basaksehir
+Onur Ergün,Unknown,MF,30.0,19,9,905.0,10.1,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+Olivier Kemen,CMR,"MF,DF",27.0,14,9,860.0,9.6,2.0,2.0,4.0,2.0,0.0,0.0,1.0,0.0,0.21,0.21,0.42,0.21,0.42,Matches,Istanbul-Basaksehir
+Mehdi Abeid,ALG,"MF,FW",30.0,18,9,802.0,8.9,3.0,1.0,4.0,3.0,0.0,0.0,3.0,0.0,0.34,0.11,0.45,0.34,0.45,Matches,Istanbul-Basaksehir
+Emirhan İlkhan,TUR,"MF,FW",19.0,30,7,1052.0,11.7,1.0,1.0,2.0,1.0,0.0,0.0,4.0,0.0,0.09,0.09,0.17,0.09,0.17,Matches,Istanbul-Basaksehir
+Eden Karzev,ISR,"MF,DF",23.0,11,6,488.0,5.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+Josef de Souza,BRA,MF,34.0,11,6,382.0,4.2,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.24,0.24,0.0,0.24,Matches,Istanbul-Basaksehir
+Cemalil Sertel,TUR,DF,23.0,10,5,554.0,6.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+Hamza Güreler,Unknown,DF,17.0,9,4,490.0,5.4,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.18,0.0,0.18,0.18,0.18,Matches,Istanbul-Basaksehir
+Emmanuel Dennis,NGA,MF,25.0,8,4,334.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+Philippe Keny,SEN,"FW,MF",24.0,29,3,645.0,7.2,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,0.14,0.0,0.14,0.14,0.14,Matches,Istanbul-Basaksehir
+Mahmut Tekdemir,TUR,MF,35.0,8,3,276.0,3.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+Edgar Ié,GNB,DF,29.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+Şener Özbayraklı,TUR,DF,33.0,2,2,126.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+Deniz Dilmen,Unknown,GK,18.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+Berkay Aydoğmuş,TUR,MF,19.0,4,1,66.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+Ahmed Touba,ALG,DF,25.0,1,1,56.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+Efecan Barlık,Unknown,MF,20.0,2,0,10.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+Batuhan Çelik,TUR,FW,18.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+Yasin Dilek,Unknown,DF,18.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbul-Basaksehir
+Nacer Chadli,BEL,"FW,MF",33.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Istanbul-Basaksehir
+Mohamed Fofana,CIV,MF,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Istanbul-Basaksehir
+Eren Karaağaç,FRA,DF,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Istanbul-Basaksehir
+Burak Kavraz,Unknown,DF,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Istanbul-Basaksehir
+Squad Total,Unknown,Unknown,28.4,38,418,3420.0,38.0,55.0,36.0,91.0,50.0,5.0,6.0,84.0,5.0,1.45,0.95,2.39,1.32,2.26,Unknown,Istanbul-Basaksehir
+Opponent Total,Unknown,Unknown,27.8,38,418,3420.0,38.0,41.0,27.0,68.0,37.0,4.0,6.0,77.0,5.0,1.08,0.71,1.79,0.97,1.68,Unknown,Istanbul-Basaksehir
+Haris Hajradinović,BIH,MF,29.0,38,38,3296.0,36.6,5.0,14.0,19.0,2.0,3.0,3.0,3.0,0.0,0.14,0.38,0.52,0.05,0.44,Matches,Kasimp
+Aytaç Kara,TUR,MF,30.0,37,37,3241.0,36.0,14.0,4.0,18.0,12.0,2.0,3.0,4.0,0.0,0.39,0.11,0.5,0.33,0.44,Matches,Kasimp
+Gökhan Gül,GER,"MF,DF",25.0,38,34,2927.0,32.5,2.0,0.0,2.0,2.0,0.0,0.0,3.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,Kasimp
+Mortadha Ben Ouannes,TUN,"MF,DF",29.0,36,33,2997.0,33.3,6.0,5.0,11.0,6.0,0.0,0.0,8.0,0.0,0.18,0.15,0.33,0.18,0.33,Matches,Kasimp
+Yasin Özcan,TUR,DF,17.0,37,33,2959.0,32.9,2.0,1.0,3.0,2.0,0.0,0.0,4.0,0.0,0.06,0.03,0.09,0.06,0.09,Matches,Kasimp
+Mamadou Fall,SEN,"MF,FW",31.0,34,33,2848.0,31.6,8.0,2.0,10.0,8.0,0.0,0.0,4.0,0.0,0.25,0.06,0.32,0.25,0.32,Matches,Kasimp
+Cláudio Winck,BRA,DF,29.0,32,32,2860.0,31.8,3.0,1.0,4.0,3.0,0.0,0.0,7.0,1.0,0.09,0.03,0.13,0.09,0.13,Matches,Kasimp
+Andreas Gianniotis,GRE,GK,30.0,31,31,2790.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Nuno da Costa,CPV,FW,32.0,29,25,2336.0,26.0,14.0,4.0,18.0,14.0,0.0,0.0,1.0,0.0,0.54,0.15,0.69,0.54,0.69,Matches,Kasimp
+Kenneth Omeruo,NGA,DF,29.0,24,23,2077.0,23.1,1.0,1.0,2.0,1.0,0.0,0.0,5.0,1.0,0.04,0.04,0.09,0.04,0.09,Matches,Kasimp
+Sadık Çiftpınar,TUR,DF,30.0,21,15,1298.0,14.4,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Julien Ngoy,BEL,"FW,MF",25.0,24,15,1288.0,14.3,2.0,2.0,4.0,2.0,0.0,0.0,1.0,0.0,0.14,0.14,0.28,0.14,0.28,Matches,Kasimp
+Jackson Porozo,ECU,DF,22.0,14,13,1184.0,13.2,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,0.08,0.0,0.08,0.08,0.08,Matches,Kasimp
+Iron Gomis,FRA,MF,23.0,21,13,1111.0,12.3,1.0,4.0,5.0,1.0,0.0,0.0,4.0,0.0,0.08,0.32,0.41,0.08,0.41,Matches,Kasimp
+Oğulcan Çağlayan,TUR,MF,27.0,16,8,761.0,8.5,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.12,0.12,0.0,0.12,Matches,Kasimp
+Tuncer Duhan Aksu,Unknown,DF,25.0,13,8,686.0,7.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Ali Emre Yanar,Unknown,GK,25.0,7,7,630.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Taylan Aydın,TUR,DF,17.0,8,6,562.0,6.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Loret Sadiku,ALB,MF,32.0,12,5,517.0,5.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Dries Saddiki,MAR,MF,26.0,9,3,268.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Yunus Emre Gedik,Unknown,DF,24.0,6,2,163.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Samuel Bastien,COD,MF,26.0,7,1,220.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Rochinha,POR,MF,28.0,7,1,187.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Erdem Çetinkaya,TUR,MF,22.0,10,1,181.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Trazie Thomas Zai,CIV,MF,24.0,7,1,109.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Selim Dilli,Unknown,DF,25.0,10,0,84.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Ali Sühan Demirel,TUR,FW,20.0,1,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Berat Kalkan,MKD,FW,20.0,1,0,6.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Emirhan Yigit,Unknown,MF,17.0,2,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Sarp Yavrucu,Unknown,FW,18.0,2,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Bunyamin Cetinkaya,Unknown,MF,13.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Hasan Emre Yeşilyurt,Unknown,MF,22.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kasimp
+Adnan Aktas,Unknown,DF,16.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Kasimp
+Melih Akyüz,Unknown,GK,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Kasimp
+Sinan Alkaş,Unknown,FW,16.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Kasimp
+Muhammed Ayes,Unknown,FW,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Kasimp
+Admir Balat,Unknown,GK,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Kasimp
+Murat Can Yıldız,TUR,GK,24.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Kasimp
+Alp Efe Kılınç,Unknown,FW,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Kasimp
+Yusuf İnci,Unknown,MF,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Kasimp
+Erol Karaman,Unknown,GK,16.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Kasimp
+Oğuzhan Yılmaz,Unknown,MF,20.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Kasimp
+Squad Total,Unknown,Unknown,27.7,38,418,3420.0,38.0,59.0,39.0,98.0,54.0,5.0,6.0,70.0,2.0,1.55,1.03,2.58,1.42,2.45,Unknown,Kasimp
+Opponent Total,Unknown,Unknown,28.0,38,418,3420.0,38.0,63.0,39.0,102.0,58.0,5.0,8.0,69.0,6.0,1.66,1.03,2.68,1.53,2.55,Unknown,Kasimp
+Mert Günok,TUR,GK,34.0,33,33,2811.0,31.2,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Gedson Fernandes,POR,MF,24.0,33,30,2696.0,30.0,3.0,3.0,6.0,3.0,0.0,0.0,8.0,0.0,0.1,0.1,0.2,0.1,0.2,Matches,Besik
+Necip Uysal,TUR,DF,32.0,33,27,2536.0,28.2,0.0,1.0,1.0,0.0,0.0,0.0,7.0,1.0,0.0,0.04,0.04,0.0,0.04,Matches,Besik
+Onur Bulut,TUR,"DF,MF",29.0,34,26,2404.0,26.7,0.0,3.0,3.0,0.0,0.0,0.0,3.0,0.0,0.0,0.11,0.11,0.0,0.11,Matches,Besik
+Milot Rashica,KVX,"MF,FW",27.0,33,28,2247.0,25.0,5.0,4.0,9.0,5.0,0.0,0.0,2.0,0.0,0.2,0.16,0.36,0.2,0.36,Matches,Besik
+Cenk Tosun,TUR,"FW,MF",32.0,40,26,2230.0,24.8,8.0,5.0,13.0,8.0,0.0,2.0,2.0,0.0,0.32,0.2,0.52,0.32,0.52,Matches,Besik
+Omar Colley,GAM,DF,30.0,25,25,2204.0,24.5,7.0,0.0,7.0,7.0,0.0,0.0,4.0,1.0,0.29,0.0,0.29,0.29,0.29,Matches,Besik
+Jackson Muleka,COD,"MF,FW",23.0,36,21,1940.0,21.6,4.0,1.0,5.0,4.0,0.0,0.0,3.0,0.0,0.19,0.05,0.23,0.19,0.23,Matches,Besik
+Baktiyor Zainutdinov,KAZ,"DF,MF",25.0,32,23,1897.0,21.1,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Amir Hadžiahmetović,BIH,MF,26.0,24,22,1811.0,20.1,0.0,4.0,4.0,0.0,0.0,0.0,4.0,1.0,0.0,0.2,0.2,0.0,0.2,Matches,Besik
+Salih Uçan,TUR,MF,29.0,27,21,1776.0,19.7,1.0,3.0,4.0,1.0,0.0,0.0,7.0,0.0,0.05,0.15,0.2,0.05,0.2,Matches,Besik
+Semih Kılıçsoy,TUR,"MF,FW",17.0,26,20,1756.0,19.5,11.0,3.0,14.0,11.0,0.0,0.0,5.0,0.0,0.56,0.15,0.72,0.56,0.72,Matches,Besik
+Arthur Masuaku,COD,DF,29.0,21,19,1720.0,19.1,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Vincent Aboubakar,CMR,FW,31.0,26,14,1415.0,15.7,7.0,2.0,9.0,6.0,1.0,2.0,2.0,0.0,0.45,0.13,0.57,0.38,0.51,Matches,Besik
+Alex Oxlade-Chamberlain,ENG,MF,29.0,26,16,1380.0,15.3,4.0,1.0,5.0,3.0,1.0,1.0,0.0,1.0,0.26,0.07,0.33,0.2,0.26,Matches,Besik
+Rachid Ghezzal,ALG,"MF,FW",31.0,29,13,1308.0,14.5,1.0,4.0,5.0,0.0,1.0,1.0,6.0,0.0,0.07,0.28,0.34,0.0,0.28,Matches,Besik
+Daniel Amartey,GHA,"DF,MF",28.0,21,14,1303.0,14.5,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Ersin Destanoğlu,TUR,GK,22.0,14,11,1147.0,12.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Valentin Rosier,FRA,DF,26.0,15,13,1094.0,12.2,0.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0,0.0,0.08,0.08,0.0,0.08,Matches,Besik
+Ernest Muçi,ALB,MF,22.0,13,12,1036.0,11.5,3.0,0.0,3.0,3.0,0.0,0.0,3.0,0.0,0.26,0.0,0.26,0.26,0.26,Matches,Besik
+Jonas Svensson,NOR,DF,30.0,10,10,871.0,9.7,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Demir Tıknaz,TUR,MF,18.0,24,8,860.0,9.6,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,0.1,0.1,0.0,0.1,Matches,Besik
+Tayfur Bingöl,TUR,"MF,DF",30.0,15,7,751.0,8.3,1.0,0.0,1.0,1.0,0.0,0.0,5.0,0.0,0.12,0.0,0.12,0.12,0.12,Matches,Besik
+Serkan Terzi,Unknown,DF,19.0,11,6,591.0,6.6,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.15,0.0,0.15,0.15,0.15,Matches,Besik
+Tayyib Talha Sanuç,TUR,DF,23.0,8,6,587.0,6.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Almoatasem Al Musrati,LBY,MF,27.0,9,7,546.0,6.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Eric Bailly,CIV,DF,29.0,8,8,533.0,5.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Ante Rebić,CRO,"MF,FW",29.0,18,4,497.0,5.5,0.0,4.0,4.0,0.0,0.0,0.0,7.0,0.0,0.0,0.72,0.72,0.0,0.72,Matches,Besik
+Joe Worrall,ENG,DF,26.0,6,5,495.0,5.5,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.18,0.0,0.18,0.18,0.18,Matches,Besik
+Umut Meraş,TUR,DF,27.0,7,6,484.0,5.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Mustafa Hekimoğlu,TUR,FW,16.0,7,1,156.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Yakup Kılıç,Unknown,DF,18.0,2,0,92.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Jean Onana,CMR,MF,23.0,6,1,85.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Fahri Ay,TUR,MF,18.0,2,1,83.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Emrecan Uzunhan,Unknown,MF,22.0,1,0,23.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Emirhan Delibaş,TUR,MF,20.0,2,0,16.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Aytuğ Kömeç,TUR,DF,18.0,2,0,8.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Cemal Azad Demir,Unknown,FW,19.0,1,0,6.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Besik
+Göktuğ Baytekin,Unknown,GK,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Besik
+Gökhan Inler,SUI,MF,39.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Besik
+Kerem Atakan Kesgin,TUR,MF,22.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Besik
+Kartal Yılmaz,TUR,MF,22.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Besik
+Oğuzhan Akgün,TUR,MF,22.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Besik
+Utku Yuvakuran,TUR,"GK,MF",25.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Besik
+Abdülmecid Dönmez,Unknown,MF,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Besik
+Emrecan Bulut,Unknown,MF,21.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Besik
+Francisco Montero,ESP,DF,24.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Besik
+Uğur Çiftçi,TUR,DF,31.0,36,36,3206.0,35.6,0.0,2.0,2.0,0.0,0.0,0.0,10.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,Sivasspor
+Ali Şaşal Vural,TUR,GK,33.0,33,33,2970.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sivasspor
+Aaron Appindangoyé,GAB,DF,31.0,31,30,2687.0,29.9,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.03,0.03,0.07,0.03,0.07,Matches,Sivasspor
+Charis Charisis,GRE,MF,28.0,31,28,2507.0,27.9,1.0,4.0,5.0,1.0,0.0,0.0,9.0,0.0,0.04,0.14,0.18,0.04,0.18,Matches,Sivasspor
+Rey Manaj,ALB,FW,26.0,33,28,2503.0,27.8,18.0,3.0,21.0,14.0,4.0,4.0,11.0,0.0,0.65,0.11,0.76,0.5,0.61,Matches,Sivasspor
+Caner Osmanpaşa,TUR,DF,35.0,28,26,2353.0,26.1,3.0,0.0,3.0,3.0,0.0,0.0,3.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,Sivasspor
+Samba Camara,MLI,DF,30.0,26,20,1869.0,20.8,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sivasspor
+Emrah Başsan,TUR,"MF,FW",31.0,25,18,1483.0,16.5,0.0,3.0,3.0,0.0,0.0,0.0,2.0,0.0,0.0,0.18,0.18,0.0,0.18,Matches,Sivasspor
+Samuel Sáiz,ESP,MF,32.0,18,18,1426.0,15.8,5.0,3.0,8.0,5.0,0.0,0.0,3.0,0.0,0.32,0.19,0.5,0.32,0.5,Matches,Sivasspor
+Murat Paluli,TUR,DF,28.0,21,17,1534.0,17.0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.12,0.12,0.0,0.12,Matches,Sivasspor
+Yunus Emre Konak,TUR,MF,17.0,17,17,1315.0,14.6,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.07,0.07,0.0,0.07,Matches,Sivasspor
+Bengali-Fodé Koita,GUI,"MF,FW",32.0,25,16,1304.0,14.5,8.0,0.0,8.0,7.0,1.0,1.0,5.0,1.0,0.55,0.0,0.55,0.48,0.48,Matches,Sivasspor
+Clinton N'Jie,CMR,"MF,FW",29.0,28,14,1281.0,14.2,2.0,2.0,4.0,2.0,0.0,0.0,4.0,1.0,0.14,0.14,0.28,0.14,0.28,Matches,Sivasspor
+Achilleas Poungouras,GRE,"DF,MF",27.0,18,13,1193.0,13.3,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sivasspor
+Alaaddin Okumuş,TUR,DF,27.0,19,13,1167.0,13.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.08,0.08,0.0,0.08,Matches,Sivasspor
+Burak Kapacak,TUR,"DF,MF",23.0,18,12,1080.0,12.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.17,0.17,0.0,0.17,Matches,Sivasspor
+Modou Barrow,GAM,"MF,FW",30.0,16,11,977.0,10.9,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,Sivasspor
+Aziz Turgʻunboyev,UZB,"MF,DF",28.0,12,10,806.0,9.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,Sivasspor
+İbrahim Akdağ,TUR,"MF,DF",32.0,11,9,721.0,8.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,0.12,0.12,0.0,0.12,Matches,Sivasspor
+Bartuğ Elmaz,TUR,MF,20.0,12,9,703.0,7.8,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.13,0.13,0.0,0.13,Matches,Sivasspor
+Gerson Rodrigues,LUX,"FW,MF",28.0,13,7,668.0,7.4,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.27,0.0,0.27,0.27,0.27,Matches,Sivasspor
+Roman Květ,CZE,MF,25.0,24,5,732.0,8.1,1.0,2.0,3.0,1.0,0.0,0.0,4.0,0.0,0.12,0.25,0.37,0.12,0.37,Matches,Sivasspor
+Hakan Arslan,TUR,MF,35.0,16,5,572.0,6.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sivasspor
+Queensy Menig,NED,MF,27.0,11,5,546.0,6.1,2.0,1.0,3.0,2.0,0.0,0.0,0.0,0.0,0.33,0.16,0.49,0.33,0.49,Matches,Sivasspor
+Đorđe Nikolić,SRB,GK,26.0,5,5,450.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sivasspor
+Mijo Caktaš,CRO,MF,31.0,13,5,444.0,4.9,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.2,0.0,0.2,0.2,0.2,Matches,Sivasspor
+Ziya Erdal,TUR,"MF,DF",35.0,5,3,245.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sivasspor
+Abdülkadir Parmak,TUR,MF,28.0,9,2,289.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sivasspor
+Mehmet Albayrak,TUR,DF,19.0,3,2,169.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sivasspor
+Ahmed Musa,NGA,FW,30.0,2,1,73.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sivasspor
+Emre Gökay,TUR,FW,17.0,11,0,91.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sivasspor
+Kader Keita,CIV,MF,22.0,7,0,72.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sivasspor
+Kerem Atakan Kesgin,TUR,MF,22.0,4,0,68.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sivasspor
+Eren Kaya,TUR,FW,19.0,2,0,7.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Sivasspor
+Oğuzhan Aksoy,Unknown,FW,16.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Sivasspor
+Hüseyin Arslan,Unknown,GK,23.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Sivasspor
+Sabri Çakir,Unknown,MF,16.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Sivasspor
+Muhammed Dursun,Unknown,FW,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Sivasspor
+Erhan Erentürk,TUR,GK,28.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Sivasspor
+Erdem Gulec,Unknown,MF,16.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Sivasspor
+Muhammed Kaya,Unknown,MF,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Sivasspor
+Yusuf Kefkir,Unknown,DF,16.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Sivasspor
+Mustafa Özbay,TUR,MF,16.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Sivasspor
+Emre Satılmış,Unknown,GK,26.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Sivasspor
+Mehmet Şeker,Unknown,MF,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Sivasspor
+Muammer Yıldırım,TUR,GK,32.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Sivasspor
+Squad Total,Unknown,Unknown,29.6,38,418,3420.0,38.0,46.0,29.0,75.0,41.0,5.0,5.0,78.0,3.0,1.21,0.76,1.97,1.08,1.84,Unknown,Sivasspor
+Opponent Total,Unknown,Unknown,28.0,38,418,3420.0,38.0,53.0,40.0,93.0,50.0,3.0,3.0,99.0,5.0,1.39,1.05,2.45,1.32,2.37,Unknown,Sivasspor
+Ertuğrul Taşkıran,TUR,GK,33.0,34,34,3060.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Alanyaspor
+Fidan Aliti,KVX,DF,29.0,35,34,3046.0,33.8,0.0,2.0,2.0,0.0,0.0,0.0,7.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,Alanyaspor
+Richard,BRA,MF,29.0,34,34,2904.0,32.3,1.0,1.0,2.0,1.0,0.0,0.0,11.0,0.0,0.03,0.03,0.06,0.03,0.06,Matches,Alanyaspor
+Efecan Karaca,TUR,"MF,FW",33.0,37,34,2725.0,30.3,2.0,3.0,5.0,2.0,0.0,1.0,5.0,0.0,0.07,0.1,0.17,0.07,0.17,Matches,Alanyaspor
+Oğuz Aydın,TUR,MF,22.0,35,30,2583.0,28.7,13.0,8.0,21.0,11.0,2.0,2.0,3.0,1.0,0.45,0.28,0.73,0.38,0.66,Matches,Alanyaspor
+Yusuf Özdemir,TUR,"MF,DF",22.0,34,28,2468.0,27.4,2.0,4.0,6.0,2.0,0.0,0.0,7.0,0.0,0.07,0.15,0.22,0.07,0.22,Matches,Alanyaspor
+Florent Hadergjonaj,KVX,DF,29.0,31,25,2320.0,25.8,2.0,3.0,5.0,2.0,0.0,0.0,3.0,0.0,0.08,0.12,0.19,0.08,0.19,Matches,Alanyaspor
+Jure Balkovec,SVN,DF,28.0,28,23,2125.0,23.6,3.0,0.0,3.0,3.0,0.0,0.0,7.0,0.0,0.13,0.0,0.13,0.13,0.13,Matches,Alanyaspor
+João Novais,POR,MF,30.0,32,23,2047.0,22.7,5.0,2.0,7.0,3.0,2.0,3.0,7.0,0.0,0.22,0.09,0.31,0.13,0.22,Matches,Alanyaspor
+Furkan Bayır,TUR,DF,23.0,31,22,2015.0,22.4,0.0,0.0,0.0,0.0,0.0,0.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Alanyaspor
+Loide Augusto,ANG,"DF,MF",23.0,26,20,1788.0,19.9,3.0,2.0,5.0,3.0,0.0,0.0,6.0,0.0,0.15,0.1,0.25,0.15,0.25,Matches,Alanyaspor
+Leroy Fer,NED,MF,33.0,31,19,1797.0,20.0,1.0,0.0,1.0,1.0,0.0,0.0,7.0,2.0,0.05,0.0,0.05,0.05,0.05,Matches,Alanyaspor
+Carlos Eduardo,BRA,"FW,MF",26.0,29,17,1521.0,16.9,4.0,1.0,5.0,4.0,0.0,0.0,3.0,0.0,0.24,0.06,0.3,0.24,0.3,Matches,Alanyaspor
+Nicolas Janvier,FRA,MF,24.0,34,16,1612.0,17.9,4.0,2.0,6.0,4.0,0.0,0.0,3.0,0.0,0.22,0.11,0.33,0.22,0.33,Matches,Alanyaspor
+Nuno Lima,POR,DF,22.0,19,13,1161.0,12.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Alanyaspor
+Sergio Córdova,VEN,FW,25.0,18,11,1011.0,11.2,3.0,0.0,3.0,3.0,0.0,0.0,1.0,0.0,0.27,0.0,0.27,0.27,0.27,Matches,Alanyaspor
+Fatih Aksoy,TUR,DF,25.0,21,10,964.0,10.7,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.09,0.0,0.09,0.09,0.09,Matches,Alanyaspor
+Koka,EGY,FW,30.0,12,9,752.0,8.4,6.0,2.0,8.0,5.0,1.0,1.0,1.0,0.0,0.72,0.24,0.96,0.6,0.84,Matches,Alanyaspor
+Pione Sisto,DEN,MF,28.0,20,7,669.0,7.4,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.13,0.0,0.13,0.13,0.13,Matches,Alanyaspor
+Yusuf Karagöz,TUR,GK,23.0,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Alanyaspor
+Hwang Ui-jo,KOR,FW,30.0,8,2,260.0,2.9,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.35,0.0,0.35,0.35,0.35,Matches,Alanyaspor
+Anderson,BRA,FW,25.0,11,2,250.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Alanyaspor
+Tayfur Bingöl,TUR,MF,30.0,2,1,54.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Alanyaspor
+Umut Güneş,TUR,MF,23.0,3,0,33.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Alanyaspor
+Yunus Bahadir,BEL,DF,20.0,1,0,8.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Alanyaspor
+Eren Altıntaş,Unknown,MF,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Alanyaspor
+Muhammet Apaydin,Unknown,MF,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Alanyaspor
+Yavuz Aygün,TUR,GK,27.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Alanyaspor
+Emirhan Çavuş,Unknown,DF,20.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Alanyaspor
+Eduardo Gabriel,BRA,DF,27.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Alanyaspor
+Mert-Yusuf Torlak,GER,MF,21.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Alanyaspor
+İsmail Zehir,TUR,MF,20.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Alanyaspor
+Squad Total,Unknown,Unknown,28.0,38,418,3420.0,38.0,52.0,30.0,82.0,47.0,5.0,7.0,87.0,4.0,1.37,0.79,2.16,1.24,2.03,Unknown,Alanyaspor
+Opponent Total,Unknown,Unknown,28.0,38,418,3420.0,38.0,49.0,28.0,77.0,46.0,3.0,3.0,73.0,3.0,1.29,0.74,2.03,1.21,1.95,Unknown,Alanyaspor
+Ibrahim Olawoyin,NGA,MF,25.0,36,34,3009.0,33.4,8.0,3.0,11.0,8.0,0.0,0.0,6.0,0.0,0.24,0.09,0.33,0.24,0.33,Matches,Rizespor
+Muhammet Taha Şahin,Unknown,DF,22.0,35,33,2943.0,32.7,0.0,4.0,4.0,0.0,0.0,0.0,6.0,0.0,0.0,0.12,0.12,0.0,0.12,Matches,Rizespor
+Emir Topçu,TUR,DF,22.0,32,32,2787.0,31.0,1.0,4.0,5.0,1.0,0.0,0.0,13.0,1.0,0.03,0.13,0.16,0.03,0.16,Matches,Rizespor
+Gökhan Akkan,TUR,GK,28.0,31,31,2729.0,30.3,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.03,0.03,0.0,0.03,Matches,Rizespor
+Jonjo Shelvey,ENG,MF,31.0,32,30,2645.0,29.4,3.0,6.0,9.0,3.0,0.0,1.0,6.0,0.0,0.1,0.2,0.31,0.1,0.31,Matches,Rizespor
+Altin Zeqiri,KVX,MF,23.0,35,27,2276.0,25.3,5.0,5.0,10.0,5.0,0.0,0.0,4.0,0.0,0.2,0.2,0.4,0.2,0.4,Matches,Rizespor
+Dal Varesanovic,BIH,MF,22.0,33,27,2086.0,23.2,9.0,2.0,11.0,9.0,0.0,0.0,6.0,0.0,0.39,0.09,0.47,0.39,0.47,Matches,Rizespor
+Casper Højer Nielsen,DEN,DF,28.0,27,23,2058.0,22.9,1.0,2.0,3.0,1.0,0.0,0.0,5.0,0.0,0.04,0.09,0.13,0.04,0.13,Matches,Rizespor
+Attila Mocsi,HUN,DF,23.0,29,22,2035.0,22.6,2.0,0.0,2.0,2.0,0.0,0.0,3.0,1.0,0.09,0.0,0.09,0.09,0.09,Matches,Rizespor
+Martin Minchev,BUL,"FW,MF",22.0,33,19,1746.0,19.4,3.0,0.0,3.0,3.0,0.0,0.0,4.0,0.0,0.15,0.0,0.15,0.15,0.15,Matches,Rizespor
+Mithat Pala,TUR,MF,22.0,26,18,1611.0,17.9,0.0,2.0,2.0,0.0,0.0,0.0,7.0,1.0,0.0,0.11,0.11,0.0,0.11,Matches,Rizespor
+Benhur Keser,TUR,"MF,FW",26.0,25,18,1533.0,17.0,4.0,4.0,8.0,4.0,0.0,0.0,3.0,0.0,0.23,0.23,0.47,0.23,0.47,Matches,Rizespor
+Adolfo Gaich,ARG,FW,24.0,33,16,1697.0,18.9,8.0,1.0,9.0,8.0,0.0,0.0,2.0,0.0,0.42,0.05,0.48,0.42,0.48,Matches,Rizespor
+Gustavo Sauer,BRA,MF,30.0,33,16,1546.0,17.2,1.0,1.0,2.0,0.0,1.0,1.0,4.0,0.0,0.06,0.06,0.12,0.0,0.06,Matches,Rizespor
+Halil Pehlivan,TUR,DF,29.0,28,15,1367.0,15.2,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.07,0.07,0.0,0.07,Matches,Rizespor
+Xusniddin Aliqulov,UZB,DF,24.0,21,15,1309.0,14.5,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Rizespor
+Babajide Akintola,NGA,MF,27.0,13,13,1029.0,11.4,1.0,2.0,3.0,1.0,0.0,0.0,2.0,0.0,0.09,0.17,0.26,0.09,0.26,Matches,Rizespor
+Tarık Çetin,TUR,GK,26.0,9,7,691.0,7.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Rizespor
+Seyfettin Anıl Yaşar,TUR,DF,21.0,19,7,687.0,7.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Rizespor
+Muammer Sarıkaya,Unknown,MF,25.0,13,7,635.0,7.1,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Rizespor
+Eray Korkmaz,TUR,DF,20.0,9,5,478.0,5.3,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Rizespor
+Pinchi,ESP,MF,27.0,13,1,231.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Rizespor
+John Mary,CMR,FW,30.0,2,1,135.0,1.5,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.67,0.0,0.67,0.67,0.67,Matches,Rizespor
+Oumar Diouf,SEN,FW,20.0,3,1,53.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Rizespor
+Mame Mor Faye,SEN,FW,18.0,8,0,107.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Rizespor
+Janne-Pekka Laine,FIN,MF,22.0,4,0,65.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Rizespor
+Sinan Osmanoğlu,TUR,DF,33.0,1,0,27.0,0.3,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.33,3.33,0.0,3.33,Matches,Rizespor
+Alberk Koç,Unknown,DF,26.0,1,0,15.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Rizespor
+Güvenc Usta,Unknown,FW,19.0,1,0,10.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Rizespor
+Zafer Görgen,Unknown,GK,23.0,0,0,Unknown,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Rizespor
+Eren Emre Aydın,Unknown,MF,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Rizespor
+Okechukwu Godson Azubuike,NGA,MF,26.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Rizespor
+Habil Özbakır,Unknown,DF,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Rizespor
+Muhammet Şebelek,Unknown,FW,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Rizespor
+Efe Tecimer,TUR,FW,20.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Rizespor
+Canberk Yurdakul,Unknown,GK,22.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Rizespor
+Squad Total,Unknown,Unknown,25.4,38,418,3420.0,38.0,47.0,39.0,86.0,46.0,1.0,2.0,91.0,3.0,1.24,1.03,2.26,1.21,2.24,Unknown,Rizespor
+Opponent Total,Unknown,Unknown,28.3,38,418,3420.0,38.0,58.0,35.0,93.0,50.0,8.0,11.0,85.0,3.0,1.53,0.92,2.45,1.32,2.24,Unknown,Rizespor
+Helton Leite,BRA,GK,32.0,34,34,3060.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Antalyaspor
+Veysel Sarı,TUR,DF,35.0,35,34,3012.0,33.5,1.0,0.0,1.0,1.0,0.0,0.0,11.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,Antalyaspor
+Adam Buksa,POL,FW,27.0,33,33,2921.0,32.5,16.0,2.0,18.0,12.0,4.0,5.0,8.0,0.0,0.49,0.06,0.55,0.37,0.43,Matches,Antalyaspor
+Dario Šarić,BIH,MF,26.0,32,30,2550.0,28.3,3.0,0.0,3.0,3.0,0.0,0.0,2.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,Antalyaspor
+Güray Vural,TUR,DF,35.0,30,29,2565.0,28.5,1.0,3.0,4.0,1.0,0.0,0.0,7.0,0.0,0.04,0.11,0.14,0.04,0.14,Matches,Antalyaspor
+Sam Larsson,SWE,MF,30.0,35,29,2560.0,28.4,5.0,1.0,6.0,5.0,0.0,0.0,1.0,0.0,0.18,0.04,0.21,0.18,0.21,Matches,Antalyaspor
+Erdoğan Yeşilyurt,Unknown,"DF,MF",29.0,34,27,2484.0,27.6,3.0,3.0,6.0,3.0,0.0,0.0,8.0,1.0,0.11,0.11,0.22,0.11,0.22,Matches,Antalyaspor
+Jakub Kałuziński,POL,MF,20.0,31,25,2328.0,25.9,0.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.08,0.08,0.0,0.08,Matches,Antalyaspor
+Bünyamin Balcı,TUR,DF,23.0,23,22,1858.0,20.6,1.0,3.0,4.0,1.0,0.0,0.0,3.0,0.0,0.05,0.15,0.19,0.05,0.19,Matches,Antalyaspor
+Ömer Toprak,TUR,DF,34.0,22,21,1802.0,20.0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.1,0.0,0.1,Matches,Antalyaspor
+Ramzi Safouri,ISR,MF,27.0,30,21,1795.0,19.9,0.0,8.0,8.0,0.0,0.0,0.0,5.0,1.0,0.0,0.4,0.4,0.0,0.4,Matches,Antalyaspor
+Sander van de Streek,NED,"MF,FW",30.0,32,20,1855.0,20.6,2.0,2.0,4.0,2.0,0.0,0.0,3.0,1.0,0.1,0.1,0.19,0.1,0.19,Matches,Antalyaspor
+Bahadır Öztürk,TUR,DF,27.0,25,17,1489.0,16.5,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,Antalyaspor
+Zymer Bytyqi,KVX,"MF,FW",26.0,29,17,1361.0,15.1,1.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,0.07,0.13,0.2,0.07,0.2,Matches,Antalyaspor
+Erdal Rakip,MKD,MF,27.0,28,16,1306.0,14.5,0.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0,0.0,0.07,0.07,0.0,0.07,Matches,Antalyaspor
+Sagiv Yehezkel,ISR,"MF,FW",28.0,13,12,911.0,10.1,6.0,2.0,8.0,6.0,0.0,0.0,4.0,0.0,0.59,0.2,0.79,0.59,0.79,Matches,Antalyaspor
+Ufuk Akyol,GER,MF,25.0,22,6,677.0,7.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Antalyaspor
+Britt Assombalonga,COD,"FW,MF",30.0,22,5,637.0,7.1,1.0,0.0,1.0,1.0,0.0,0.0,5.0,0.0,0.14,0.0,0.14,0.14,0.14,Matches,Antalyaspor
+Naldo,BRA,DF,34.0,11,4,510.0,5.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Antalyaspor
+Mehmet Dadakdeniz,TUR,GK,23.0,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Antalyaspor
+Amar Gerxhaliu,KVX,DF,21.0,4,3,335.0,3.7,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.27,0.0,0.27,0.27,0.27,Matches,Antalyaspor
+Emre Uzun,TUR,MF,18.0,10,2,236.0,2.6,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.38,0.38,0.0,0.38,Matches,Antalyaspor
+Mert Yilmaz,TUR,DF,24.0,6,2,204.0,2.3,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.44,0.0,0.44,0.44,0.44,Matches,Antalyaspor
+Fredy,ANG,MF,33.0,3,2,141.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Antalyaspor
+Deni Milošević,BIH,MF,28.0,14,1,292.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Antalyaspor
+Gerrit Holtmann,PHI,MF,28.0,7,1,200.0,2.2,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.45,0.45,0.0,0.45,Matches,Antalyaspor
+Ege Bilsel,Unknown,MF,19.0,3,1,61.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Antalyaspor
+Kagan Arican,Unknown,GK,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Antalyaspor
+Mustafa Erdilman,Unknown,MF,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Antalyaspor
+Erkan Eyibil,TUR,MF,22.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Antalyaspor
+Burak Ingenç,TUR,MF,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Antalyaspor
+Doğukan Özkan,TUR,GK,23.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Antalyaspor
+Muhammed Özkul,Unknown,DF,16.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Antalyaspor
+Harun Toprak,GER,MF,35.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Antalyaspor
+Beytullah Tunç,Unknown,MF,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Antalyaspor
+Yiğit Üstün,Unknown,DF,16.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Antalyaspor
+Squad Total,Unknown,Unknown,29.1,38,418,3420.0,38.0,43.0,33.0,76.0,39.0,4.0,5.0,78.0,4.0,1.13,0.87,2.0,1.03,1.89,Unknown,Antalyaspor
+Opponent Total,Unknown,Unknown,27.9,38,418,3420.0,38.0,49.0,37.0,86.0,45.0,4.0,5.0,81.0,0.0,1.29,0.97,2.26,1.18,2.16,Unknown,Antalyaspor
+Mustafa Eskihellaç,TUR,"DF,MF",26.0,35,35,3061.0,34.0,2.0,3.0,5.0,2.0,0.0,0.0,5.0,0.0,0.06,0.09,0.15,0.06,0.15,Matches,Gaziantep-FK
+Florin Niță,ROU,GK,36.0,34,34,3060.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Gaziantep-FK
+Papy Djilobodji,SEN,DF,34.0,34,34,3004.0,33.4,3.0,1.0,4.0,3.0,0.0,0.0,4.0,1.0,0.09,0.03,0.12,0.09,0.12,Matches,Gaziantep-FK
+Nicolas Nkoulou,CMR,"DF,MF",33.0,32,32,2837.0,31.5,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,Gaziantep-FK
+Denis Drăguș,ROU,FW,24.0,32,32,2736.0,30.4,14.0,1.0,15.0,13.0,1.0,2.0,8.0,0.0,0.46,0.03,0.49,0.43,0.46,Matches,Gaziantep-FK
+Alexandru Maxim,ROU,MF,33.0,34,32,2656.0,29.5,3.0,8.0,11.0,1.0,2.0,4.0,7.0,2.0,0.1,0.27,0.37,0.03,0.3,Matches,Gaziantep-FK
+Arda Kızıldağ,TUR,DF,24.0,29,26,2316.0,25.7,4.0,0.0,4.0,4.0,0.0,0.0,4.0,0.0,0.16,0.0,0.16,0.16,0.16,Matches,Gaziantep-FK
+Ogün Özçiçek,Unknown,MF,24.0,29,23,1997.0,22.2,3.0,2.0,5.0,3.0,0.0,0.0,7.0,0.0,0.14,0.09,0.23,0.14,0.23,Matches,Gaziantep-FK
+Salem M'bakata,COD,"DF,MF",25.0,28,22,1902.0,21.1,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,Gaziantep-FK
+Marko Jevtović,SRB,MF,30.0,30,19,1720.0,19.1,3.0,0.0,3.0,3.0,0.0,0.0,5.0,0.0,0.16,0.0,0.16,0.16,0.16,Matches,Gaziantep-FK
+Max Gradel,CIV,"MF,FW",35.0,29,19,1705.0,18.9,1.0,4.0,5.0,1.0,0.0,0.0,5.0,0.0,0.05,0.21,0.26,0.05,0.26,Matches,Gaziantep-FK
+Furkan Soyalp,TUR,MF,28.0,30,18,1591.0,17.7,1.0,3.0,4.0,1.0,0.0,0.0,8.0,1.0,0.06,0.17,0.23,0.06,0.23,Matches,Gaziantep-FK
+Lazar Marković,SRB,"FW,MF",29.0,30,18,1543.0,17.1,3.0,5.0,8.0,3.0,0.0,0.0,6.0,0.0,0.17,0.29,0.47,0.17,0.47,Matches,Gaziantep-FK
+Ertuğrul Ersoy,TUR,DF,26.0,17,17,1465.0,16.3,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,Gaziantep-FK
+Júnior Morais,BRA,DF,37.0,15,15,1316.0,14.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Gaziantep-FK
+Deian Sorescu,ROU,"MF,FW",25.0,16,11,1074.0,11.9,4.0,2.0,6.0,4.0,0.0,0.0,1.0,0.0,0.34,0.17,0.5,0.34,0.5,Matches,Gaziantep-FK
+Jamiro Monteiro,CPV,MF,29.0,13,9,735.0,8.2,1.0,2.0,3.0,1.0,0.0,0.0,3.0,0.0,0.12,0.24,0.37,0.12,0.37,Matches,Gaziantep-FK
+Janio Bikel,GNB,MF,28.0,16,4,491.0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Gaziantep-FK
+Ahmet Şen,TUR,GK,24.0,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Gaziantep-FK
+Brayan Riascos,COL,FW,28.0,17,3,461.0,5.1,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.2,0.0,0.2,0.2,0.2,Matches,Gaziantep-FK
+Ömürcan Artan,Unknown,DF,24.0,9,3,369.0,4.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Gaziantep-FK
+Naoufel Khacef,ALG,DF,25.0,3,3,270.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Gaziantep-FK
+Aliou Badji,SEN,FW,25.0,14,2,335.0,3.7,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.27,0.0,0.27,0.27,0.27,Matches,Gaziantep-FK
+Oğulcan Çağlayan,TUR,MF,27.0,7,1,133.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Gaziantep-FK
+Mirza Cihan,Unknown,FW,22.0,7,1,129.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Gaziantep-FK
+Luka Stankovski,MKD,MF,20.0,2,1,54.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Gaziantep-FK
+İlker Karakaş,TUR,FW,24.0,9,0,93.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.97,0.97,0.0,0.97,Matches,Gaziantep-FK
+Albian Ajeti,SUI,FW,26.0,4,0,59.0,0.7,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.53,0.0,1.53,1.53,1.53,Matches,Gaziantep-FK
+Bryan Acosta,HON,MF,29.0,1,0,40.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Gaziantep-FK
+Valmir Veliu,KVX,FW,23.0,3,0,28.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Gaziantep-FK
+Onurhan Babuscu,AUT,MF,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Gaziantep-FK
+Onur Başyiğit,Unknown,DF,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Gaziantep-FK
+Mustafa Burak Bozan,Unknown,GK,22.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Gaziantep-FK
+Bahadir Gölgeli,TUR,MF,20.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Gaziantep-FK
+Berkan Küpelikilinc,GER,DF,20.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Gaziantep-FK
+Mehmet Kuzucu,TUR,FW,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Gaziantep-FK
+Ulaş Zengin,Unknown,DF,26.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Gaziantep-FK
+Squad Total,Unknown,Unknown,29.6,38,418,3420.0,38.0,48.0,33.0,81.0,45.0,3.0,6.0,85.0,4.0,1.26,0.87,2.13,1.18,2.05,Unknown,Gaziantep-FK
+Opponent Total,Unknown,Unknown,27.8,38,418,3420.0,38.0,55.0,42.0,97.0,49.0,6.0,10.0,93.0,5.0,1.45,1.11,2.55,1.29,2.39,Unknown,Gaziantep-FK
+Semih Güler,TUR,DF,28.0,32,32,2799.0,31.1,0.0,1.0,1.0,0.0,0.0,0.0,6.0,1.0,0.0,0.03,0.03,0.0,0.03,Matches,Adana-Demirspor
+Andrew Gravillon,GLP,DF,25.0,33,31,2756.0,30.6,2.0,0.0,2.0,2.0,0.0,0.0,4.0,0.0,0.07,0.0,0.07,0.07,0.07,Matches,Adana-Demirspor
+Emre Akbaba,TUR,"MF,FW",30.0,32,31,2674.0,29.7,7.0,2.0,9.0,6.0,1.0,1.0,5.0,0.0,0.24,0.07,0.3,0.2,0.27,Matches,Adana-Demirspor
+Yusuf Erdoğan,TUR,"MF,DF",30.0,35,29,2591.0,28.8,5.0,2.0,7.0,4.0,1.0,1.0,4.0,0.0,0.17,0.07,0.24,0.14,0.21,Matches,Adana-Demirspor
+Shakhruddin Magomedaliyev,AZE,GK,29.0,25,24,2137.0,23.7,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Yusuf Sari,TUR,MF,24.0,24,21,1784.0,19.8,3.0,6.0,9.0,3.0,0.0,0.0,1.0,0.0,0.15,0.3,0.45,0.15,0.45,Matches,Adana-Demirspor
+Edouard Michut,FRA,MF,20.0,24,20,1724.0,19.2,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,Adana-Demirspor
+Benjamin Stambouli,FRA,MF,32.0,20,17,1376.0,15.3,1.0,0.0,1.0,1.0,0.0,0.0,3.0,1.0,0.07,0.0,0.07,0.07,0.07,Matches,Adana-Demirspor
+Jonas Svensson,NOR,DF,30.0,14,14,1190.0,13.2,0.0,3.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.23,0.23,0.0,0.23,Matches,Adana-Demirspor
+Younès Belhanda,MAR,MF,33.0,14,14,1072.0,11.9,3.0,0.0,3.0,3.0,0.0,0.0,4.0,0.0,0.25,0.0,0.25,0.25,0.25,Matches,Adana-Demirspor
+Maestro,ANG,MF,19.0,13,13,1120.0,12.4,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.08,0.08,0.0,0.08,Matches,Adana-Demirspor
+Stiven Mendoza,COL,"MF,FW",31.0,14,13,1078.0,12.0,3.0,0.0,3.0,3.0,0.0,0.0,2.0,0.0,0.25,0.0,0.25,0.25,0.25,Matches,Adana-Demirspor
+İsmail Çokçalış,TUR,DF,23.0,14,13,1076.0,12.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.08,0.0,0.08,Matches,Adana-Demirspor
+M'Baye Niang,SEN,FW,28.0,16,13,986.0,11.0,8.0,1.0,9.0,4.0,4.0,4.0,2.0,0.0,0.73,0.09,0.82,0.37,0.46,Matches,Adana-Demirspor
+Milad Mohammadi,IRN,DF,29.0,13,12,1073.0,11.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Ertaç Özbir,TUR,GK,33.0,12,12,1008.0,11.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Kévin Rodrigues,POR,DF,29.0,11,11,917.0,10.2,0.0,1.0,1.0,0.0,0.0,0.0,4.0,1.0,0.0,0.1,0.1,0.0,0.1,Matches,Adana-Demirspor
+Nani,POR,"MF,FW",36.0,28,10,934.0,10.4,3.0,2.0,5.0,3.0,0.0,0.0,5.0,0.0,0.29,0.19,0.48,0.29,0.48,Matches,Adana-Demirspor
+Mario Balotelli,ITA,FW,32.0,16,10,933.0,10.4,7.0,1.0,8.0,6.0,1.0,1.0,7.0,1.0,0.68,0.1,0.77,0.58,0.68,Matches,Adana-Demirspor
+Youcef Atal,ALG,DF,27.0,11,10,817.0,9.1,1.0,2.0,3.0,1.0,0.0,0.0,4.0,1.0,0.11,0.22,0.33,0.11,0.33,Matches,Adana-Demirspor
+Babajide Akintola,NGA,MF,27.0,12,9,906.0,10.1,2.0,1.0,3.0,2.0,0.0,0.0,2.0,0.0,0.2,0.1,0.3,0.2,0.3,Matches,Adana-Demirspor
+Pape Abou Cissé,SEN,DF,27.0,13,9,723.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Badou Ndiaye,SEN,MF,32.0,9,7,601.0,6.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Yusuf Barasi,TUR,"FW,MF",20.0,28,6,875.0,9.7,4.0,2.0,6.0,4.0,0.0,0.0,1.0,1.0,0.41,0.21,0.62,0.41,0.62,Matches,Adana-Demirspor
+Dorukhan Toköz,TUR,"DF,MF",27.0,20,6,673.0,7.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Tayfun Aydoğan,Unknown,"MF,FW",27.0,20,5,677.0,7.5,2.0,1.0,3.0,1.0,1.0,1.0,3.0,0.0,0.27,0.13,0.4,0.13,0.27,Matches,Adana-Demirspor
+Abdulsamet Burak,Unknown,DF,27.0,7,5,445.0,4.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Abdurrahim Dursun,TUR,DF,24.0,9,5,432.0,4.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Arber Zeneli,KVX,MF,28.0,12,2,361.0,4.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.25,0.0,0.25,Matches,Adana-Demirspor
+Jovan Manev,MKD,DF,22.0,5,2,323.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Abat Ajymbetow,KAZ,FW,27.0,9,2,270.0,3.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.33,0.0,0.33,0.33,0.33,Matches,Adana-Demirspor
+Nabil Alioui,FRA,MF,24.0,6,2,189.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Cherif Ndiaye,SEN,FW,27.0,2,2,166.0,1.8,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.54,0.54,1.08,0.54,1.08,Matches,Adana-Demirspor
+Mootez Nourani,TUN,"MF,FW",21.0,4,2,166.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Vedat Karakuş,TUR,GK,25.0,3,1,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+José Rodríguez,ESP,MF,28.0,5,1,132.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Yılmaz Aktaş,GER,GK,20.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Ozan Demirbag,Unknown,MF,15.0,4,1,75.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+İzzet Çelik,Unknown,MF,19.0,5,0,49.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Breyton Fougeu,FRA,FW,19.0,1,0,11.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Florent Shehu,SUI,FW,21.0,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Samet Duyur,Unknown,FW,13.0,1,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Burhan Ersoy,Unknown,MF,20.0,1,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Deniz Donmezer,Unknown,Unknown,14.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Adana-Demirspor
+Aslan Atay,Unknown,DF,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Adana-Demirspor
+Murat Eser,Unknown,GK,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Adana-Demirspor
+Caner Kaban,Unknown,MF,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Adana-Demirspor
+Mustafa Kapı,TUR,MF,20.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Adana-Demirspor
+Goran Karaćić,BIH,GK,26.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Adana-Demirspor
+Osman Kaynak,Unknown,FW,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Adana-Demirspor
+Squad Total,Unknown,Unknown,28.2,38,418,3420.0,38.0,53.0,30.0,83.0,45.0,8.0,8.0,81.0,8.0,1.39,0.79,2.18,1.18,1.97,Unknown,Adana-Demirspor
+Opponent Total,Unknown,Unknown,27.8,38,418,3420.0,38.0,59.0,36.0,95.0,51.0,8.0,10.0,89.0,2.0,1.55,0.95,2.5,1.34,2.29,Unknown,Adana-Demirspor
+Okan Kocuk,TUR,GK,28.0,36,36,3240.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Samsunspor
+Carlo Holse,DEN,MF,24.0,33,33,2778.0,30.9,5.0,2.0,7.0,5.0,0.0,0.0,4.0,0.0,0.16,0.06,0.23,0.16,0.23,Matches,Samsunspor
+Emre Kılınç,TUR,MF,28.0,33,32,2560.0,28.4,4.0,4.0,8.0,4.0,0.0,0.0,4.0,0.0,0.14,0.14,0.28,0.14,0.28,Matches,Samsunspor
+Rick van Drongelen,NED,DF,24.0,30,26,2394.0,26.6,3.0,0.0,3.0,3.0,0.0,0.0,6.0,0.0,0.11,0.0,0.11,0.11,0.11,Matches,Samsunspor
+Ľubomír Šatka,SVK,DF,27.0,26,25,2208.0,24.5,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,0.04,0.04,0.08,0.04,0.08,Matches,Samsunspor
+Marius Mouandilmadji,CHA,FW,26.0,30,25,2073.0,23.0,9.0,1.0,10.0,9.0,0.0,1.0,5.0,1.0,0.39,0.04,0.43,0.39,0.43,Matches,Samsunspor
+Zeki Yavru,TUR,DF,31.0,28,23,2017.0,22.4,1.0,2.0,3.0,1.0,0.0,0.0,4.0,0.0,0.04,0.09,0.13,0.04,0.13,Matches,Samsunspor
+Youssef Aït Bennasser,MAR,MF,27.0,28,23,1902.0,21.1,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,0.05,0.0,0.05,0.05,0.05,Matches,Samsunspor
+Soner Gönül,TUR,DF,26.0,24,22,1930.0,21.4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,Samsunspor
+Alim Öztürk,TUR,DF,30.0,25,22,1926.0,21.4,0.0,2.0,2.0,0.0,0.0,0.0,6.0,0.0,0.0,0.09,0.09,0.0,0.09,Matches,Samsunspor
+Flavien Tait,FRA,MF,30.0,28,22,1678.0,18.6,0.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.11,0.11,0.0,0.11,Matches,Samsunspor
+Taylan Antalyalı,TUR,MF,28.0,26,21,1767.0,19.6,2.0,1.0,3.0,0.0,2.0,2.0,3.0,0.0,0.1,0.05,0.15,0.0,0.05,Matches,Samsunspor
+Olivier Ntcham,CMR,MF,27.0,27,19,1860.0,20.7,6.0,0.0,6.0,2.0,4.0,4.0,5.0,0.0,0.29,0.0,0.29,0.1,0.1,Matches,Samsunspor
+Marc Bola,ENG,"DF,MF",25.0,20,12,1063.0,11.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Samsunspor
+Moryké Fofana,CIV,"MF,FW",31.0,27,10,1067.0,11.9,0.0,4.0,4.0,0.0,0.0,0.0,4.0,0.0,0.0,0.34,0.34,0.0,0.34,Matches,Samsunspor
+Ercan Kara,AUT,"FW,MF",27.0,23,8,951.0,10.6,3.0,0.0,3.0,2.0,1.0,1.0,0.0,0.0,0.28,0.0,0.28,0.19,0.19,Matches,Samsunspor
+Yunus Emre Çift,TUR,"DF,MF",19.0,10,8,644.0,7.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Samsunspor
+Kingsley Schindler,GHA,"DF,MF",30.0,17,7,790.0,8.8,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,0.11,0.11,0.23,0.11,0.23,Matches,Samsunspor
+Mickaël Tirpan,BEL,"DF,MF",29.0,7,7,564.0,6.3,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Samsunspor
+Osman Çelik,TUR,MF,31.0,24,6,774.0,8.6,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Samsunspor
+Benito Raman,BEL,"MF,FW",28.0,11,6,435.0,4.8,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Samsunspor
+Landry Dimata,BEL,"FW,MF",25.0,19,5,641.0,7.1,2.0,0.0,2.0,2.0,0.0,0.0,6.0,1.0,0.28,0.0,0.28,0.28,0.28,Matches,Samsunspor
+Arbnor Muja,ALB,"MF,FW",24.0,13,4,421.0,4.7,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.21,0.0,0.21,0.21,0.21,Matches,Samsunspor
+Muhammed Gümüskaya,TUR,MF,22.0,11,4,348.0,3.9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.26,0.26,0.0,0.26,Matches,Samsunspor
+Haluk Tan,TUR,DF,18.0,8,4,339.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Samsunspor
+Soner Aydoğdu,TUR,MF,32.0,17,3,455.0,5.1,2.0,1.0,3.0,2.0,0.0,0.0,1.0,0.0,0.4,0.2,0.59,0.4,0.59,Matches,Samsunspor
+Gaëtan Laura,Unknown,FW,27.0,8,2,326.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Samsunspor
+Jakub Szumski,POL,GK,31.0,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Samsunspor
+Muhammet Ali Özbaskıcı,TUR,MF,17.0,4,1,40.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Samsunspor
+Eulânio Ângelo Chipela Gomes,GNB,"DF,FW",29.0,5,0,55.0,0.6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.64,1.64,0.0,1.64,Matches,Samsunspor
+Enes Albak,TUR,DF,18.0,1,0,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Samsunspor
+Douglas Tanque,BRA,FW,29.0,1,0,22.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Samsunspor
+Berhan Deniz,Unknown,FW,18.0,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Samsunspor
+Bedirhan Çetin,TUR,DF,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Samsunspor
+Emre Köroğlu,Unknown,MF,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Samsunspor
+Muammer Yıldırım,TUR,GK,32.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Samsunspor
+Squad Total,Unknown,Unknown,27.7,38,418,3420.0,38.0,41.0,24.0,65.0,34.0,7.0,8.0,80.0,3.0,1.08,0.63,1.71,0.89,1.53,Unknown,Samsunspor
+Opponent Total,Unknown,Unknown,28.1,38,418,3420.0,38.0,51.0,37.0,88.0,49.0,2.0,3.0,69.0,4.0,1.34,0.97,2.32,1.29,2.26,Unknown,Samsunspor
+Bilal Bayazit,NED,GK,24.0,35,35,3150.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kayserispor
+Gökhan Sazdağı,TUR,"DF,FW",28.0,34,33,2899.0,32.2,0.0,5.0,5.0,0.0,0.0,0.0,9.0,0.0,0.0,0.16,0.16,0.0,0.16,Matches,Kayserispor
+Aylton Boa Morte,POR,"MF,FW",29.0,32,31,2620.0,29.1,8.0,2.0,10.0,8.0,0.0,0.0,7.0,0.0,0.27,0.07,0.34,0.27,0.34,Matches,Kayserispor
+Miguel Filipe Nunes Cardoso,POR,"MF,FW",29.0,30,30,2508.0,27.9,1.0,7.0,8.0,1.0,0.0,0.0,4.0,0.0,0.04,0.25,0.29,0.04,0.29,Matches,Kayserispor
+Kartal Yılmaz,TUR,MF,22.0,29,27,2402.0,26.7,0.0,2.0,2.0,0.0,0.0,0.0,8.0,1.0,0.0,0.07,0.07,0.0,0.07,Matches,Kayserispor
+Lionel Carole,FRA,DF,32.0,28,25,2199.0,24.4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,Kayserispor
+Joseph Larweh Attamah,GHA,DF,29.0,30,24,2168.0,24.1,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.04,0.0,0.04,0.04,0.04,Matches,Kayserispor
+Ali Karimi,IRN,MF,29.0,27,24,2032.0,22.6,3.0,0.0,3.0,3.0,0.0,0.0,4.0,0.0,0.13,0.0,0.13,0.13,0.13,Matches,Kayserispor
+Arif Kocaman,TUR,DF,19.0,25,20,1725.0,19.2,0.0,1.0,1.0,0.0,0.0,0.0,5.0,1.0,0.0,0.05,0.05,0.0,0.05,Matches,Kayserispor
+Ramazan Civelek,TUR,"MF,DF",27.0,35,20,1724.0,19.2,0.0,2.0,2.0,0.0,0.0,0.0,4.0,0.0,0.0,0.1,0.1,0.0,0.1,Matches,Kayserispor
+Mame Baba Thiam,SEN,"FW,MF",30.0,19,19,1653.0,18.4,11.0,2.0,13.0,7.0,4.0,4.0,2.0,0.0,0.6,0.11,0.71,0.38,0.49,Matches,Kayserispor
+Dimitrios Kolovetsios,GRE,DF,31.0,23,15,1487.0,16.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kayserispor
+Hasan Ali Kaldırım,TUR,DF,33.0,21,13,1181.0,13.1,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.08,0.08,0.0,0.08,Matches,Kayserispor
+Mehdi Bourabia,MAR,MF,31.0,13,13,1156.0,12.8,3.0,0.0,3.0,3.0,0.0,0.0,5.0,1.0,0.23,0.0,0.23,0.23,0.23,Matches,Kayserispor
+Carlos Mané,GNB,MF,29.0,25,11,1138.0,12.6,5.0,2.0,7.0,4.0,1.0,1.0,2.0,0.0,0.4,0.16,0.55,0.32,0.47,Matches,Kayserispor
+Julian Jeanvier,GUI,DF,31.0,13,10,903.0,10.0,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,0.1,0.1,0.2,0.1,0.2,Matches,Kayserispor
+Olivier Kemen,CMR,"MF,FW",27.0,13,10,871.0,9.7,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.21,0.0,0.21,0.21,0.21,Matches,Kayserispor
+Duckens Nazon,HAI,FW,29.0,13,10,838.0,9.3,2.0,1.0,3.0,2.0,0.0,0.0,2.0,1.0,0.21,0.11,0.32,0.21,0.32,Matches,Kayserispor
+Majid Hosseini,IRN,DF,27.0,10,9,868.0,9.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kayserispor
+Yaw Ackah,GHA,MF,24.0,19,9,835.0,9.3,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kayserispor
+Anthony Uzodimma,NGA,DF,24.0,12,8,778.0,8.6,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.12,0.0,0.12,0.12,0.12,Matches,Kayserispor
+Stéphane Bahoken,CMR,FW,31.0,23,6,759.0,8.4,3.0,0.0,3.0,3.0,0.0,1.0,1.0,0.0,0.36,0.0,0.36,0.36,0.36,Matches,Kayserispor
+Mehmet Eray Özbek,Unknown,MF,20.0,10,6,508.0,5.6,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,0.18,0.0,0.18,0.18,0.18,Matches,Kayserispor
+Otabek Shukurov,UZB,MF,27.0,12,6,492.0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kayserispor
+Onurcan Piri,TUR,GK,28.0,3,3,269.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kayserispor
+Baran Gezek,TUR,MF,17.0,10,1,135.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kayserispor
+Talha Sarıarslan,TUR,FW,19.0,13,0,92.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.98,0.98,0.0,0.98,Matches,Kayserispor
+Hayrullah Erkip,Unknown,FW,20.0,4,0,65.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kayserispor
+Muhammed Arikan,TUR,MF,18.0,1,0,10.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kayserispor
+Ahmet Malatyali,Unknown,MF,20.0,1,0,8.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kayserispor
+Yiğit Emre Çeltik,TUR,MF,20.0,1,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kayserispor
+Enes Gökcek,Unknown,Unknown,16.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kayserispor
+Mehmet Öztürk,TUR,GK,18.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Kayserispor
+Ethem Balcı,Unknown,MF,20.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Kayserispor
+Berat Eskin,Unknown,MF,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Kayserispor
+Nurettin Korkmaz,TUR,FW,21.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Kayserispor
+Batuhan Özgan,Unknown,DF,16.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Kayserispor
+Squad Total,Unknown,Unknown,28.0,38,418,3420.0,38.0,42.0,28.0,70.0,37.0,5.0,6.0,84.0,4.0,1.11,0.74,1.84,0.97,1.71,Unknown,Kayserispor
+Opponent Total,Unknown,Unknown,28.1,38,418,3420.0,38.0,55.0,33.0,88.0,48.0,7.0,8.0,66.0,3.0,1.45,0.87,2.32,1.26,2.13,Unknown,Kayserispor
+Guy-Marcelin Kilama,CMR,DF,24.0,35,35,3135.0,34.8,2.0,1.0,3.0,2.0,0.0,0.0,4.0,0.0,0.06,0.03,0.09,0.06,0.09,Matches,Hatayspor
+Erce Kardeşler,TUR,GK,29.0,35,35,3108.0,34.5,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hatayspor
+Fisayo Dele-Bashiru,NGA,MF,22.0,36,34,3035.0,33.7,8.0,3.0,11.0,8.0,0.0,0.0,6.0,0.0,0.24,0.09,0.33,0.24,0.33,Matches,Hatayspor
+Rigoberto Rivas,HON,"MF,DF",25.0,29,27,2430.0,27.0,5.0,4.0,9.0,5.0,0.0,0.0,6.0,0.0,0.19,0.15,0.33,0.19,0.33,Matches,Hatayspor
+Chandrel Massanga,CGO,MF,23.0,30,27,2282.0,25.4,3.0,0.0,3.0,3.0,0.0,0.0,4.0,0.0,0.12,0.0,0.12,0.12,0.12,Matches,Hatayspor
+Carlos Strandberg,SWE,"FW,MF",27.0,36,27,2241.0,24.9,8.0,2.0,10.0,6.0,2.0,2.0,2.0,0.0,0.32,0.08,0.4,0.24,0.32,Matches,Hatayspor
+Kamil Çörekçi,TUR,DF,31.0,24,19,1729.0,19.2,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hatayspor
+Faouzi Ghoulam,ALG,DF,32.0,21,18,1419.0,15.8,1.0,2.0,3.0,1.0,0.0,0.0,8.0,0.0,0.06,0.13,0.19,0.06,0.19,Matches,Hatayspor
+Görkem Sağlam,GER,MF,25.0,31,17,1515.0,16.8,2.0,4.0,6.0,2.0,0.0,0.0,4.0,0.0,0.12,0.24,0.36,0.12,0.36,Matches,Hatayspor
+Ömer Faruk Beyaz,TUR,"MF,FW",19.0,27,17,1377.0,15.3,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hatayspor
+Kerim Alıcı,TUR,DF,26.0,24,16,1430.0,15.9,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.06,0.0,0.06,0.06,0.06,Matches,Hatayspor
+Nikola Maksimović,SRB,DF,31.0,18,15,1359.0,15.1,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hatayspor
+Giorgi Aburjania,GEO,MF,28.0,20,15,1248.0,13.9,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.07,0.07,0.0,0.07,Matches,Hatayspor
+Joelson Fernandes,POR,MF,20.0,31,14,1402.0,15.6,0.0,3.0,3.0,0.0,0.0,0.0,6.0,1.0,0.0,0.19,0.19,0.0,0.19,Matches,Hatayspor
+Renat Dadaşov,AZE,FW,24.0,31,13,1387.0,15.4,6.0,0.0,6.0,3.0,3.0,4.0,7.0,0.0,0.39,0.0,0.39,0.19,0.19,Matches,Hatayspor
+Burak Bekaroğlu,Unknown,DF,26.0,15,12,1118.0,12.4,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hatayspor
+Recep Yılmaz,TUR,DF,27.0,11,10,900.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hatayspor
+Didier Lamkel Zé,CMR,"MF,FW",26.0,15,9,947.0,10.5,3.0,2.0,5.0,3.0,0.0,1.0,3.0,0.0,0.29,0.19,0.48,0.29,0.48,Matches,Hatayspor
+Cemalil Sertel,TUR,DF,23.0,13,8,769.0,8.5,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.12,0.12,0.0,0.12,Matches,Hatayspor
+Mehdi Boudjemaa,ALG,MF,25.0,16,7,640.0,7.1,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.14,0.0,0.14,0.14,0.14,Matches,Hatayspor
+Halil Dervişoğlu,TUR,"FW,MF",23.0,11,7,593.0,6.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hatayspor
+Cengiz Demir,Unknown,DF,22.0,7,6,526.0,5.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hatayspor
+Rui Pedro,POR,MF,25.0,11,5,487.0,5.4,0.0,3.0,3.0,0.0,0.0,0.0,4.0,0.0,0.0,0.55,0.55,0.0,0.55,Matches,Hatayspor
+Engin Aksoy,TUR,DF,19.0,5,5,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hatayspor
+Armin Hodžić,BIH,MF,23.0,21,4,532.0,5.9,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.17,0.0,0.17,0.17,0.17,Matches,Hatayspor
+Doğukan Sınık,TUR,MF,24.0,9,4,319.0,3.5,1.0,2.0,3.0,1.0,0.0,0.0,4.0,0.0,0.28,0.56,0.85,0.28,0.85,Matches,Hatayspor
+Oğuzhan Matur,Unknown,DF,23.0,8,3,326.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hatayspor
+Visar Bekaj,KVX,GK,26.0,4,3,312.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hatayspor
+Bertuğ Yıldırım,TUR,FW,21.0,3,3,258.0,2.9,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.35,0.0,0.35,0.35,0.35,Matches,Hatayspor
+Abdülkadir Parmak,TUR,MF,28.0,5,2,199.0,2.2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.45,0.45,0.0,0.45,Matches,Hatayspor
+Rayane Aabid,FRA,MF,31.0,11,1,211.0,2.3,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.43,0.0,0.43,0.43,0.43,Matches,Hatayspor
+Onur Arı,Unknown,FW,22.0,3,0,13.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hatayspor
+Musa Çağıran,TUR,MF,30.0,2,0,12.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Hatayspor
+İbrahim Demir,Unknown,FW,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Hatayspor
+Demir Sarıcalı,Unknown,GK,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Hatayspor
+Ali Yıldız,Unknown,MF,16.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Hatayspor
+Squad Total,Unknown,Unknown,25.8,38,418,3420.0,38.0,44.0,29.0,73.0,39.0,5.0,7.0,106.0,1.0,1.16,0.76,1.92,1.03,1.79,Unknown,Hatayspor
+Opponent Total,Unknown,Unknown,28.2,38,418,3420.0,38.0,50.0,30.0,80.0,46.0,4.0,7.0,75.0,3.0,1.32,0.79,2.11,1.21,2.0,Unknown,Hatayspor
+Guilherme Sityá,POR,DF,33.0,37,37,3266.0,36.3,5.0,7.0,12.0,4.0,1.0,1.0,1.0,0.0,0.14,0.19,0.33,0.11,0.3,Matches,Konyaspor
+Soner Dikmen,TUR,MF,29.0,37,37,3207.0,35.6,1.0,0.0,1.0,1.0,0.0,0.0,6.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,Konyaspor
+Uğurcan Yazgılı,TUR,"DF,MF",24.0,35,30,2688.0,29.9,2.0,0.0,2.0,2.0,0.0,0.0,5.0,0.0,0.07,0.0,0.07,0.07,0.07,Matches,Konyaspor
+Sokol Cikalleshi,ALB,FW,33.0,33,30,2345.0,26.1,12.0,5.0,17.0,4.0,8.0,8.0,3.0,0.0,0.46,0.19,0.65,0.15,0.35,Matches,Konyaspor
+Steven Nzonzi,FRA,MF,34.0,33,26,2324.0,25.8,4.0,0.0,4.0,4.0,0.0,0.0,2.0,0.0,0.15,0.0,0.15,0.15,0.15,Matches,Konyaspor
+Ahmet Oğuz,TUR,DF,30.0,31,25,2107.0,23.4,1.0,1.0,2.0,1.0,0.0,0.0,7.0,0.0,0.04,0.04,0.09,0.04,0.09,Matches,Konyaspor
+Alexandru Cicâldău,ROU,MF,26.0,31,23,2016.0,22.4,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.04,0.0,0.04,0.04,0.04,Matches,Konyaspor
+Adil Demirbağ,TUR,DF,25.0,23,22,1964.0,21.8,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Marlos Moreno,COL,MF,26.0,29,22,1909.0,21.2,2.0,1.0,3.0,2.0,0.0,0.0,4.0,0.0,0.09,0.05,0.14,0.09,0.14,Matches,Konyaspor
+Oğulcan Ülgün,TUR,MF,25.0,33,21,1754.0,19.5,1.0,1.0,2.0,1.0,0.0,0.0,9.0,1.0,0.05,0.05,0.1,0.05,0.1,Matches,Konyaspor
+Louka Prip,DEN,MF,26.0,35,18,1634.0,18.2,6.0,0.0,6.0,6.0,0.0,0.0,1.0,0.0,0.33,0.0,0.33,0.33,0.33,Matches,Konyaspor
+Paul Bernardoni,FRA,GK,26.0,17,17,1530.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Francisco Calvo,CRC,DF,31.0,17,16,1450.0,16.1,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Jakub Słowik,POL,GK,31.0,14,14,1260.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Alassane Ndao,SEN,MF,26.0,16,13,1192.0,13.2,2.0,2.0,4.0,2.0,0.0,0.0,3.0,0.0,0.15,0.15,0.3,0.15,0.3,Matches,Konyaspor
+Teenage Hadebe,ZIM,DF,27.0,11,11,905.0,10.1,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,0.1,0.1,0.0,0.1,Matches,Konyaspor
+Filip Damjanovic,SRB,DF,25.0,13,9,882.0,9.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Valon Ethemi,MKD,"MF,FW",25.0,15,9,791.0,8.8,1.0,3.0,4.0,1.0,0.0,0.0,3.0,0.0,0.11,0.34,0.46,0.11,0.46,Matches,Konyaspor
+Robert Murić,CRO,"MF,FW",27.0,16,8,685.0,7.6,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.26,0.0,0.26,0.26,0.26,Matches,Konyaspor
+Deniz Ertaş,TUR,GK,18.0,7,7,630.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Nélson Oliveira,POR,FW,31.0,15,4,462.0,5.1,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.19,0.19,0.0,0.19,Matches,Konyaspor
+Metehan Mert,TUR,DF,24.0,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Yunus Mallı,TUR,MF,31.0,14,3,390.0,4.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Bruno Paz,ANG,MF,25.0,6,3,303.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Bouly Sambou,SEN,FW,24.0,10,2,338.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Konrad Michalak,POL,MF,25.0,4,2,228.0,2.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.39,0.39,0.0,0.39,Matches,Konyaspor
+Kahraman Demirtapa,TUR,DF,29.0,8,2,194.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Cebrail Karayel,TUR,DF,28.0,12,1,227.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Karahan Yasir Subaşı,TUR,DF,27.0,9,1,200.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Emrehan Gedikli,GER,FW,20.0,5,1,161.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Gökhan Töre,TUR,"FW,MF",31.0,3,0,48.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Muhammet Demir,TUR,FW,31.0,5,0,45.0,0.5,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,0.0,2.0,Matches,Konyaspor
+Niko Rak,CRO,DF,20.0,4,0,42.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Emmanuel Boateng,GHA,MF,26.0,2,0,24.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Anderson Gniangbo,CIV,FW,23.0,1,0,10.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Mehmet Ali Büyüksayar,TUR,FW,19.0,2,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Konyaspor
+Mehmet Erdogan,TUR,GK,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Konyaspor
+Muhammed Kocatürk,Unknown,MF,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Konyaspor
+Orkun Sarun,Unknown,MF,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Konyaspor
+Çağdaş Şendur,Unknown,MF,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Konyaspor
+Squad Total,Unknown,Unknown,28.5,38,418,3420.0,38.0,40.0,24.0,64.0,31.0,9.0,9.0,75.0,2.0,1.05,0.63,1.68,0.82,1.45,Unknown,Konyaspor
+Opponent Total,Unknown,Unknown,28.0,38,418,3420.0,38.0,50.0,33.0,83.0,41.0,9.0,10.0,94.0,4.0,1.32,0.87,2.18,1.08,1.95,Unknown,Konyaspor
+Nihad Mujakić,BIH,DF,25.0,36,36,3200.0,35.6,1.0,1.0,2.0,1.0,0.0,0.0,4.0,0.0,0.03,0.03,0.06,0.03,0.06,Matches,Ankaragucu
+Uroš Radaković,SRB,DF,29.0,35,35,3069.0,34.1,1.0,1.0,2.0,1.0,0.0,0.0,8.0,0.0,0.03,0.03,0.06,0.03,0.06,Matches,Ankaragucu
+Bahadır Güngördü,Unknown,GK,25.0,32,31,2838.0,31.5,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.03,0.03,0.0,0.03,Matches,Ankaragucu
+Efkan Bekiroglu,Unknown,MF,27.0,30,27,2126.0,23.6,9.0,4.0,13.0,9.0,0.0,0.0,2.0,1.0,0.38,0.17,0.55,0.38,0.55,Matches,Ankaragucu
+Ali Sowe,GAM,FW,29.0,27,26,2123.0,23.6,6.0,3.0,9.0,6.0,0.0,0.0,5.0,1.0,0.25,0.13,0.38,0.25,0.38,Matches,Ankaragucu
+Pedro Filipe Barbosa Moreira,POR,MF,30.0,32,25,2184.0,24.3,3.0,2.0,5.0,3.0,0.0,0.0,4.0,0.0,0.12,0.08,0.21,0.12,0.21,Matches,Ankaragucu
+Stelios Kitsiou,GRE,DF,29.0,28,24,2136.0,23.7,0.0,1.0,1.0,0.0,0.0,0.0,7.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,Ankaragucu
+Olimpiu Moruțan,ROU,MF,24.0,30,24,2117.0,23.5,2.0,3.0,5.0,2.0,0.0,0.0,3.0,0.0,0.09,0.13,0.21,0.09,0.21,Matches,Ankaragucu
+Tolga Ciğerci,TUR,MF,31.0,27,23,2047.0,22.7,5.0,3.0,8.0,2.0,3.0,3.0,4.0,0.0,0.22,0.13,0.35,0.09,0.22,Matches,Ankaragucu
+Ali Kaan Güneren,TUR,MF,23.0,33,20,1918.0,21.3,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.05,0.05,0.09,0.05,0.09,Matches,Ankaragucu
+Renaldo Cephas,JAM,"MF,FW",23.0,31,20,1614.0,17.9,3.0,1.0,4.0,3.0,0.0,0.0,5.0,0.0,0.17,0.06,0.22,0.17,0.22,Matches,Ankaragucu
+Matěj Hanousek,CZE,DF,30.0,21,16,1469.0,16.3,0.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.12,0.12,0.0,0.12,Matches,Ankaragucu
+Atakan Çankaya,TUR,DF,25.0,24,14,1412.0,15.7,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ankaragucu
+Anastasios Chatzigiovannis,GRE,MF,26.0,33,12,1381.0,15.3,2.0,1.0,3.0,1.0,1.0,1.0,1.0,0.0,0.13,0.07,0.2,0.07,0.13,Matches,Ankaragucu
+Christian Bassogog,CMR,MF,27.0,13,12,911.0,10.1,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.2,0.0,0.2,0.2,0.2,Matches,Ankaragucu
+Yıldırım Mert Çetin,TUR,DF,26.0,18,9,864.0,9.6,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ankaragucu
+Garry Rodrigues,CPV,MF,32.0,19,9,807.0,9.0,2.0,4.0,6.0,2.0,0.0,0.0,3.0,0.0,0.22,0.45,0.67,0.22,0.67,Matches,Ankaragucu
+Riad Bajić,BIH,FW,29.0,24,8,815.0,9.1,4.0,0.0,4.0,4.0,0.0,1.0,0.0,0.0,0.44,0.0,0.44,0.44,0.44,Matches,Ankaragucu
+Hayrullah Bilazer,Unknown,DF,28.0,9,8,708.0,7.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ankaragucu
+Andrej Đokanović,BIH,MF,22.0,12,7,613.0,6.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ankaragucu
+Kazımcan Karataş,TUR,DF,20.0,11,6,613.0,6.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ankaragucu
+Alper Uludağ,TUR,DF,32.0,9,6,503.0,5.6,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.18,0.0,0.18,0.18,0.18,Matches,Ankaragucu
+Rafał Gikiewicz,POL,GK,35.0,5,5,450.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ankaragucu
+Federico Macheda,ITA,FW,31.0,21,4,497.0,5.5,3.0,0.0,3.0,3.0,0.0,0.0,1.0,0.0,0.54,0.0,0.54,0.54,0.54,Matches,Ankaragucu
+Alexis Flips,FRA,MF,23.0,10,4,445.0,4.9,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.2,0.0,0.2,Matches,Ankaragucu
+Riccardo Saponara,ITA,"MF,FW",31.0,8,3,274.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ankaragucu
+Ertaç Özbir,TUR,GK,33.0,2,2,127.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Ankaragucu
+Cem Türkmen,TUR,MF,21.0,10,1,168.0,1.9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.54,0.54,0.0,0.54,Matches,Ankaragucu
+Giorgi Beridze,GEO,FW,26.0,1,1,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ankaragucu
+Arda Ünyay,TUR,DF,16.0,1,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ankaragucu
+Alperen Kuyubaşı,Unknown,DF,23.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Ankaragucu
+Sirozhiddin Astanakulov,Unknown,FW,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Ankaragucu
+Fatih Demir,Unknown,GK,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Ankaragucu
+Abdurrahim Dursun,TUR,DF,24.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Ankaragucu
+Doğukan Kaya,Unknown,DF,23.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Ankaragucu
+Enes Tepecik,AUT,MF,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Ankaragucu
+Squad Total,Unknown,Unknown,27.5,38,418,3420.0,38.0,45.0,30.0,75.0,41.0,4.0,5.0,67.0,3.0,1.18,0.79,1.97,1.08,1.87,Unknown,Ankaragucu
+Opponent Total,Unknown,Unknown,28.1,38,418,3420.0,38.0,51.0,35.0,86.0,47.0,4.0,4.0,73.0,5.0,1.34,0.92,2.26,1.24,2.16,Unknown,Ankaragucu
+Levent Mercan,GER,DF,22.0,36,35,3109.0,34.5,1.0,5.0,6.0,1.0,0.0,0.0,8.0,0.0,0.03,0.14,0.17,0.03,0.17,Matches,Fatih-Karagumruk
+Marcus Rohdén,SWE,MF,32.0,34,29,2418.0,26.9,4.0,4.0,8.0,4.0,0.0,0.0,4.0,0.0,0.15,0.15,0.3,0.15,0.3,Matches,Fatih-Karagumruk
+Davide Biraschi,ITA,DF,29.0,30,28,2572.0,28.6,0.0,1.0,1.0,0.0,0.0,0.0,8.0,1.0,0.0,0.03,0.03,0.0,0.03,Matches,Fatih-Karagumruk
+Valentin Eysseric,FRA,MF,31.0,31,28,2409.0,26.8,5.0,7.0,12.0,5.0,0.0,0.0,9.0,1.0,0.19,0.26,0.45,0.19,0.45,Matches,Fatih-Karagumruk
+Can Keles,AUT,"MF,FW",21.0,35,28,2261.0,25.1,5.0,3.0,8.0,5.0,0.0,0.0,3.0,0.0,0.2,0.12,0.32,0.2,0.32,Matches,Fatih-Karagumruk
+Federico Ceccherini,ITA,DF,31.0,27,25,2051.0,22.8,1.0,0.0,1.0,1.0,0.0,0.0,9.0,2.0,0.04,0.0,0.04,0.04,0.04,Matches,Fatih-Karagumruk
+Güven Yalçın,TUR,"FW,MF",24.0,32,24,2131.0,23.7,9.0,4.0,13.0,9.0,0.0,0.0,5.0,0.0,0.38,0.17,0.55,0.38,0.55,Matches,Fatih-Karagumruk
+Freddie Veseli,ALB,DF,30.0,22,18,1606.0,17.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fatih-Karagumruk
+Salvatore Sirigu,ITA,GK,36.0,17,17,1530.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fatih-Karagumruk
+Ryan Mendes,CPV,MF,33.0,23,17,1505.0,16.7,4.0,4.0,8.0,4.0,0.0,0.0,5.0,2.0,0.24,0.24,0.48,0.24,0.48,Matches,Fatih-Karagumruk
+Sofiane Feghouli,ALG,MF,33.0,25,17,1456.0,16.2,2.0,1.0,3.0,1.0,1.0,1.0,4.0,1.0,0.12,0.06,0.19,0.06,0.12,Matches,Fatih-Karagumruk
+Ibrahim Drešević,KVX,DF,26.0,16,15,1366.0,15.2,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.07,0.07,0.0,0.07,Matches,Fatih-Karagumruk
+Nazim Sangaré,TUR,"DF,MF",29.0,25,13,1287.0,14.3,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.07,0.07,0.14,0.07,0.14,Matches,Fatih-Karagumruk
+Salih Dursun,TUR,DF,32.0,21,13,1271.0,14.1,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,0.07,0.0,0.07,0.07,0.07,Matches,Fatih-Karagumruk
+Kevin Lasagna,ITA,"FW,MF",30.0,28,13,1186.0,13.2,2.0,2.0,4.0,2.0,0.0,0.0,3.0,0.0,0.15,0.15,0.3,0.15,0.3,Matches,Fatih-Karagumruk
+Matías Dituro,ARG,GK,36.0,11,11,990.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fatih-Karagumruk
+Emre Bilgin,TUR,GK,19.0,10,10,900.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fatih-Karagumruk
+Dimitrios Kourbelis,GRE,MF,29.0,12,10,887.0,9.9,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fatih-Karagumruk
+Andrea Bertolacci,ITA,MF,32.0,15,9,766.0,8.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fatih-Karagumruk
+Koray Günter,GER,DF,28.0,10,8,690.0,7.7,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fatih-Karagumruk
+Marcos Vinicius Amaral Alves,BRA,FW,29.0,11,8,671.0,7.5,6.0,1.0,7.0,6.0,0.0,1.0,1.0,0.0,0.8,0.13,0.94,0.8,0.94,Matches,Fatih-Karagumruk
+Emre Mor,TUR,"MF,FW",26.0,9,8,667.0,7.4,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.13,0.0,0.13,0.13,0.13,Matches,Fatih-Karagumruk
+Serdar Dursun,TUR,FW,31.0,22,6,812.0,9.0,3.0,0.0,3.0,2.0,1.0,1.0,0.0,0.0,0.33,0.0,0.33,0.22,0.22,Matches,Fatih-Karagumruk
+Flavio Paoletti,ITA,MF,20.0,20,6,705.0,7.8,1.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,0.13,0.13,0.26,0.13,0.26,Matches,Fatih-Karagumruk
+Otabek Shukurov,UZB,MF,27.0,15,6,563.0,6.3,0.0,1.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.16,0.16,0.0,0.16,Matches,Fatih-Karagumruk
+Adnan Ugur,BEL,MF,22.0,13,6,544.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fatih-Karagumruk
+Tonio Teklić,CRO,MF,23.0,8,4,306.0,3.4,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.29,0.29,0.0,0.29,Matches,Fatih-Karagumruk
+Stefano Sturaro,ITA,MF,30.0,11,2,315.0,3.5,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.29,0.0,0.29,0.29,0.29,Matches,Fatih-Karagumruk
+Kerem Atakan Kesgin,TUR,MF,22.0,5,1,148.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fatih-Karagumruk
+Emir Tintiş,TUR,DF,19.0,4,1,105.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fatih-Karagumruk
+Rayyan Baniya,Unknown,DF,24.0,1,1,90.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fatih-Karagumruk
+Adem Ljajić,SRB,FW,31.0,2,1,83.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fatih-Karagumruk
+Brahim Darri,NED,"FW,MF",28.0,4,0,48.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fatih-Karagumruk
+Nicholas Anwan,NGA,MF,22.0,3,0,22.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fatih-Karagumruk
+Samed Onur,TUR,FW,21.0,5,0,19.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Fatih-Karagumruk
+Hakan Atabey,Unknown,DF,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fatih-Karagumruk
+Furkan Bekleviç,TUR,GK,24.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fatih-Karagumruk
+Adnan Durmusoglu,Unknown,Unknown,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fatih-Karagumruk
+Muhammed Egemen Pehlivan,Unknown,FW,23.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fatih-Karagumruk
+Efecan Mızrakçı,Unknown,DF,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fatih-Karagumruk
+Efe Tatlı,Unknown,MF,21.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fatih-Karagumruk
+Ahmet Tugyan,Unknown,FW,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fatih-Karagumruk
+Kerem Yandal,Unknown,GK,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Fatih-Karagumruk
+Squad Total,Unknown,Unknown,28.8,38,418,3420.0,38.0,47.0,37.0,84.0,45.0,2.0,3.0,96.0,7.0,1.24,0.97,2.21,1.18,2.16,Unknown,Fatih-Karagumruk
+Opponent Total,Unknown,Unknown,27.9,38,418,3420.0,38.0,49.0,30.0,79.0,42.0,7.0,9.0,70.0,3.0,1.29,0.79,2.08,1.11,1.89,Unknown,Fatih-Karagumruk
+Halil Akbunar,TUR,"MF,FW",29.0,37,35,2788.0,31.0,5.0,3.0,8.0,5.0,0.0,0.0,3.0,1.0,0.16,0.1,0.26,0.16,0.26,Matches,Pendikspor
+Nuno Sequeira,POR,DF,32.0,35,34,3066.0,34.1,1.0,3.0,4.0,1.0,0.0,0.0,9.0,0.0,0.03,0.09,0.12,0.03,0.12,Matches,Pendikspor
+Erdem Canpolat,GER,GK,22.0,34,34,3060.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Gökcan Kaya,DEN,MF,27.0,34,23,2110.0,23.4,2.0,3.0,5.0,2.0,0.0,0.0,3.0,0.0,0.09,0.13,0.21,0.09,0.21,Matches,Pendikspor
+Arnaud Lusamba,COD,MF,26.0,27,23,2021.0,22.5,0.0,3.0,3.0,0.0,0.0,0.0,7.0,1.0,0.0,0.13,0.13,0.0,0.13,Matches,Pendikspor
+Welinton,BRA,DF,34.0,24,23,2012.0,22.4,2.0,1.0,3.0,2.0,0.0,0.0,10.0,3.0,0.09,0.04,0.13,0.09,0.13,Matches,Pendikspor
+Fredrik Midtsjø,NOR,MF,29.0,26,22,1928.0,21.4,1.0,2.0,3.0,1.0,0.0,0.0,4.0,0.0,0.05,0.09,0.14,0.05,0.14,Matches,Pendikspor
+Alpaslan Öztürk,TUR,DF,30.0,22,21,1858.0,20.6,2.0,0.0,2.0,2.0,0.0,0.0,7.0,0.0,0.1,0.0,0.1,0.1,0.1,Matches,Pendikspor
+Serkan Asan,TUR,DF,24.0,22,18,1514.0,16.8,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Mame Baba Thiam,SEN,"MF,FW",30.0,17,17,1503.0,16.7,6.0,5.0,11.0,5.0,1.0,2.0,2.0,0.0,0.36,0.3,0.66,0.3,0.6,Matches,Pendikspor
+Erdem Özgenç,TUR,DF,38.0,22,17,1500.0,16.7,1.0,3.0,4.0,0.0,1.0,1.0,3.0,0.0,0.06,0.18,0.24,0.0,0.18,Matches,Pendikspor
+Erencan Yardimci,TUR,"FW,MF",21.0,28,15,1401.0,15.6,6.0,2.0,8.0,6.0,0.0,0.0,0.0,0.0,0.39,0.13,0.51,0.39,0.51,Matches,Pendikspor
+Umut Nayir,TUR,FW,30.0,17,15,1221.0,13.6,4.0,1.0,5.0,4.0,0.0,0.0,3.0,0.0,0.29,0.07,0.37,0.29,0.37,Matches,Pendikspor
+Berkay Sülüngöz,TUR,DF,27.0,19,14,1332.0,14.8,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.07,0.0,0.07,0.07,0.07,Matches,Pendikspor
+Joher Rassoul,SEN,DF,27.0,13,12,1022.0,11.4,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Josip Vuković,CRO,MF,31.0,16,11,1078.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Abdoulay Diaby,MLI,MF,32.0,27,11,1073.0,11.9,2.0,0.0,2.0,2.0,0.0,0.0,3.0,0.0,0.17,0.0,0.17,0.17,0.17,Matches,Pendikspor
+İbrahim Akdağ,TUR,MF,32.0,14,11,934.0,10.4,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Badou Ndiaye,SEN,MF,32.0,11,11,914.0,10.2,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.1,0.0,0.1,0.1,0.1,Matches,Pendikspor
+Thuram,BRA,"FW,MF",32.0,18,9,855.0,9.5,3.0,0.0,3.0,3.0,0.0,0.0,1.0,0.0,0.32,0.0,0.32,0.32,0.32,Matches,Pendikspor
+Endri Çekiçi,ALB,MF,26.0,24,9,827.0,9.2,1.0,2.0,3.0,1.0,0.0,0.0,5.0,0.0,0.11,0.22,0.33,0.11,0.33,Matches,Pendikspor
+Murat Akça,TUR,DF,33.0,15,7,692.0,7.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Óscar Romero,PAR,"MF,FW",31.0,12,7,684.0,7.6,3.0,0.0,3.0,0.0,3.0,4.0,1.0,0.0,0.39,0.0,0.39,0.0,0.0,Matches,Pendikspor
+Emre Taşdemir,TUR,"DF,FW",27.0,12,5,472.0,5.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Burak Öğür,TUR,GK,33.0,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Koka,EGY,FW,30.0,4,3,236.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Leandro Kappel,SUR,"MF,FW",33.0,18,2,380.0,4.2,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.24,0.0,0.24,0.24,0.24,Matches,Pendikspor
+Emeka Friday Eze,NGA,FW,26.0,8,2,156.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Görkem Bitin,Unknown,FW,25.0,10,1,329.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Aias Aosman,SYR,MF,28.0,1,1,71.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Georgios Tzavellas,GRE,DF,35.0,1,1,45.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Efe Sayhan,Unknown,MF,18.0,2,0,43.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Hasan Kilic,Unknown,MF,31.0,1,0,30.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Ahmet Kosar,Unknown,Unknown,16.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Umut Toy,Unknown,DF,19.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Pendikspor
+Murat Akşit,TUR,GK,21.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Pendikspor
+Erdem Çalık,Unknown,MF,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Pendikspor
+Melih Güney,Unknown,MF,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Pendikspor
+Gökdeniz Kara,Unknown,DF,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Pendikspor
+Enes Keskin,Unknown,MF,22.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Pendikspor
+Hakan Tavukcu,Unknown,GK,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Pendikspor
+Squad Total,Unknown,Unknown,29.5,38,418,3420.0,38.0,42.0,28.0,70.0,37.0,5.0,7.0,89.0,6.0,1.11,0.74,1.84,0.97,1.71,Unknown,Pendikspor
+Opponent Total,Unknown,Unknown,28.0,38,418,3420.0,38.0,71.0,53.0,124.0,67.0,4.0,5.0,91.0,4.0,1.87,1.39,3.26,1.76,3.16,Unknown,Pendikspor
+Mehmet Yeşil,TUR,DF,25.0,35,33,2897.0,32.2,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+Florian Loshaj,KVX,MF,26.0,33,33,2780.0,30.9,5.0,0.0,5.0,5.0,0.0,0.0,10.0,1.0,0.16,0.0,0.16,0.16,0.16,Matches,Istanbulspor
+Ali Yasar,BEL,"DF,MF",28.0,34,29,2531.0,28.1,1.0,2.0,3.0,1.0,0.0,0.0,5.0,1.0,0.04,0.07,0.11,0.04,0.11,Matches,Istanbulspor
+Okan Erdogan,GER,DF,24.0,31,28,2549.0,28.3,0.0,0.0,0.0,0.0,0.0,0.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+Jackson,BRA,"MF,FW",24.0,36,28,2259.0,25.1,1.0,4.0,5.0,0.0,1.0,2.0,2.0,0.0,0.04,0.16,0.2,0.0,0.16,Matches,Istanbulspor
+Simon Deli,CIV,DF,31.0,28,25,2248.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+Demeaco Duhaney,ENG,"DF,MF",24.0,27,25,2200.0,24.4,1.0,0.0,1.0,1.0,0.0,0.0,8.0,1.0,0.04,0.0,0.04,0.04,0.04,Matches,Istanbulspor
+Modestas Vorobjovas,LTU,MF,27.0,28,24,2127.0,23.6,1.0,0.0,1.0,1.0,0.0,0.0,6.0,1.0,0.04,0.0,0.04,0.04,0.04,Matches,Istanbulspor
+Alassane Ndao,SEN,"MF,FW",26.0,21,21,1658.0,18.4,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.05,0.05,0.11,0.05,0.11,Matches,Istanbulspor
+Alp Arda,Unknown,GK,28.0,20,20,1782.0,19.8,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+Mamadou Mendy,SEN,"FW,MF",24.0,32,19,1751.0,19.5,2.0,3.0,5.0,2.0,0.0,0.0,0.0,1.0,0.1,0.15,0.26,0.1,0.26,Matches,Istanbulspor
+Muammer Sarıkaya,Unknown,MF,25.0,23,18,1719.0,19.1,2.0,1.0,3.0,2.0,0.0,0.0,7.0,0.0,0.1,0.05,0.16,0.1,0.16,Matches,Istanbulspor
+Emir Kaan Gültekin,TUR,"FW,MF",22.0,30,18,1701.0,18.9,4.0,1.0,5.0,4.0,0.0,1.0,4.0,0.0,0.21,0.05,0.26,0.21,0.26,Matches,Istanbulspor
+David Sambissa,GAB,"MF,DF",27.0,25,18,1560.0,17.3,1.0,3.0,4.0,1.0,0.0,0.0,1.0,0.0,0.06,0.17,0.23,0.06,0.23,Matches,Istanbulspor
+David Jensen,DEN,GK,31.0,14,14,1260.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+Valon Ethemi,MKD,"MF,FW",25.0,16,14,1207.0,13.4,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.07,0.07,0.15,0.07,0.15,Matches,Istanbulspor
+Racine Coly,SEN,DF,27.0,22,12,1147.0,12.7,1.0,0.0,1.0,1.0,0.0,0.0,9.0,0.0,0.08,0.0,0.08,0.08,0.08,Matches,Istanbulspor
+Vefa Temel,FRA,"DF,MF",20.0,25,9,853.0,9.5,2.0,0.0,2.0,2.0,0.0,0.0,4.0,0.0,0.21,0.0,0.21,0.21,0.21,Matches,Istanbulspor
+Eduard Rroca,ALB,"MF,FW",30.0,15,9,795.0,8.8,1.0,1.0,2.0,1.0,0.0,0.0,4.0,0.0,0.11,0.11,0.23,0.11,0.23,Matches,Istanbulspor
+İbrahim Yılmaz,TUR,FW,29.0,8,6,456.0,5.1,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.39,0.0,0.39,0.39,0.39,Matches,Istanbulspor
+Djakaridja Traoré,CIV,FW,24.0,16,5,486.0,5.4,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.19,0.0,0.19,0.19,0.19,Matches,Istanbulspor
+Mücahit Serbest,TUR,GK,18.0,5,4,378.0,4.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+Özcan Şahan,FRA,MF,24.0,16,2,322.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+Emrehan Gedikli,GER,FW,20.0,7,2,289.0,3.2,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.31,0.0,0.31,0.31,0.31,Matches,Istanbulspor
+Eslem Öztürk,TUR,MF,25.0,8,1,160.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+Baran Vardar,Unknown,DF,18.0,3,1,107.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+Tunahan Şamdanlı,Unknown,MF,18.0,6,0,82.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+Giannelli Imbula,COD,MF,30.0,4,0,63.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+İzzet Topatar,Unknown,MF,21.0,2,0,40.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+Eren Arda San,Unknown,FW,17.0,6,0,38.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+Kubilay Köylü,NED,FW,24.0,5,0,30.0,0.3,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,3.0,Matches,Istanbulspor
+Demir Mermerci,Unknown,MF,16.0,2,0,11.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+Emir Vurusaner,Unknown,DF,18.0,2,0,8.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+Muhammet Tekke,Unknown,FW,20.0,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Istanbulspor
+Apostolos Diamantis,GRE,DF,23.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Istanbulspor
+Murat Eser,Unknown,GK,18.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Istanbulspor
+Bartu Kırtaş,TUR,DF,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Istanbulspor
+Yasin Polat,Unknown,Unknown,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Istanbulspor
+Enver Sarıalioğlu,Unknown,MF,19.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Istanbulspor
+Jetmir Topalli,KVX,MF,25.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Istanbulspor
+Oktay Yakup,Unknown,Unknown,17.0,0,0,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Matches,Istanbulspor
+Squad Total,Unknown,Unknown,26.4,38,418,3420.0,38.0,28.0,18.0,46.0,27.0,1.0,3.0,94.0,6.0,0.74,0.47,1.21,0.71,1.18,Unknown,Istanbulspor
+Opponent Total,Unknown,Unknown,28.1,38,418,3420.0,38.0,78.0,55.0,133.0,69.0,9.0,12.0,63.0,2.0,2.05,1.45,3.5,1.82,3.26,Unknown,Istanbulspor
