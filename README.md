@@ -5,8 +5,8 @@ Colour of the balls are determined by the outcome of the shot.
 Size of the balls are determined by the xG value of the shot.
 
 2) Shot Freeze Frame for the goals.
-Position of the shooter and the other players(attackers, defenders and goalkeeper of the opponent team) of the pitch in the shot moment.
-! Position of the goalkeeper for penalties can be updated.
+Position of the shooter and the other players(attackers, defenders and goalkeeper of the opponent team) in the pitch at the shot moment.
+Position of the goalkeeper for penalties can be updated if necessary.
 
 3) Pass Flow for both teams
 Volume of the lines are determined by the number of passes.
